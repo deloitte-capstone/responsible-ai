@@ -27,14 +27,14 @@ areas:
 * How do inherent fairness problems in AI models affect human beings?  
 
 
-## Result replication (introduction to topic)
-To Be Announced
-* [Hindroid](https://www.cse.ust.hk/~yqsong/papers/2017-KDD-HINDROID.pdf)
-* [MaMaDroid](https://arxiv.org/pdf/1612.04433.pdf)
+## Primary Objectives, Quarter 1
+* Introduce students to the area in which they will do their project through replicating a known result.
+* Create written material and code that serves as a foundation for work in quarter-2’s projects.
+* Closely read example papers in the domain to learn best-practices for communication in the chosen field.
 
-The latter-half of Quarter 1 will introduce you to further topics,
-like graph embedding techniques and adversarial ML, to inform possible
-avenues for further research.
+## Result replication (introduction to topic)
+Title: To Be Announced
+* Coming Soon
 
 ---
 
@@ -44,7 +44,6 @@ Participation in the weekly discussion section is *mandatory*. Each
 week, you are responsible for doing the reading/task assigned in the
 [schedule](#schedule). Come to section prepared to ask questions about
 and discuss the results of these tasks.
-
 
 ---
 
