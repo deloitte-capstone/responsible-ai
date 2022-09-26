@@ -59,7 +59,7 @@ and discuss the results of these tasks.
 |6|[TBD]|
 |7|[TBD]|
 |8|[TBD]|
-|9|[]|
+|9|[TBD]|
 |10|Present Proposals|
 
 ---
