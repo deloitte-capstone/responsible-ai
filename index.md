@@ -51,22 +51,21 @@ and discuss the results of these tasks.
 
 |Week|Topic|
 |--|--|
-|1|[Introduction to Ethical/Trustworthy AI]({{ "weeks/01-Introduction" | absolute_url }})|
-|2|[Data: Code Parsing, Malware]({{ "/weeks/02-Data" | absolute_url }})|
-|3|[Creating Graphs from Code; What is Malware?]({{ "/weeks/03-Android-Graphs" | absolute_url }})|
-|4|[Graph Invariants as Measurements]({{ "/weeks/04-Graph-Features" | absolute_url }})|
-|5|[Building a Baseline Model]({{ "/weeks/05-Baseline-Model" | absolute_url }})|
-|6|[Evalulating the HinDroid Result]({{ "/weeks/06-Hindroid" | absolute_url }})|
-|7|[Graph Embedding I: node2vec]({{ "/weeks/07-Graph-Embeddings-I" | absolute_url }})|
-|8|[Graph Embedding II: metapath2vec]({{ "/weeks/08-Graph-Embeddings-II" | absolute_url }})|
-|9|[Production and Adversarial ML]({{ "/weeks/09-Adversarial-ML" | absolute_url }})|
+|1|[Introduction to Trustworthy/Ethical AI]|
+|2|[TBD]|
+|3|[TBD]|
+|4|[TBD]|
+|5|[TBD]|
+|6|[TBD]|
+|7|[TBD]|
+|8|[TBD]|
+|9|[]|
 |10|Present Proposals|
 
 ---
 
 # Office Hours
 
-Fridays 9-11AM
-
+Coming Soon!
 
 
