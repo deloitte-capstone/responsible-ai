@@ -51,8 +51,9 @@ Participation questions should be submitted to Gradescope and will be due 24 hou
 * Introduce students to the area in which they will do their project through replicating a known result.
 * Create written material and code that serves as a foundation for work in quarter-2’s projects.
 * Closely read example papers in the domain to learn best-practices for communication in the chosen field.
-### Result replication (introduction to topic)
-Title: *Coming Soon*
+
+### Result replication topic
+*Coming Soon*
 
 ### Grading: 
 Please see the Capstone Program Syllabus for a detailed description of the assignment weights and rubric
