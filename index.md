@@ -52,10 +52,10 @@ Participation questions should be submitted to Gradescope and will be due 24 hou
 * Create written material and code that serves as a foundation for work in quarter-2’s projects.
 * Closely read example papers in the domain to learn best-practices for communication in the chosen field.
 ### Result replication (introduction to topic)
-Title: To Be Announced
-* Coming Soon
+Title: *Coming Soon*
 
-#### Grading: Please see the Capstone Program Syllabus for a detailed description of the assignment weights and rubric
+### Grading: 
+Please see the Capstone Program Syllabus for a detailed description of the assignment weights and rubric
 
 ### Weekly Participation Credit: Weekly Reading and corresponding discussion post, **plus *one* in-class brief**
 Each week, students will be assigned a set of readings. There is no textbook for this course; all readings are freely available and links will be provided. Each student is responsible for reading all content in full prior to the start of each week’s course, as the readings will guide the week’s discussion. Students will be responsible for engaging with the readings in the following ways:
