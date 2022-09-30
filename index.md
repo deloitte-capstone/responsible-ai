@@ -44,37 +44,37 @@ Please send any questions to the Responsible AI Slack Channel (*Sign up Link TBA
 * For any issues with Slack, email Nandita Rahman (nanrahman@deloitte.com) or your UCSD Faculty Mentor
 For private or personal questions, you can reach out to the course instructors privately via email (ddanks@ucsd.edu). 
 
-## Assignment Submission
-Participation questions should be submitted to Gradescope and will be due 24 hours prior to the start of the class for which they are assigned. Other assignments, including both one-off tasks and assignments related to the replication project, should be submitted to Gradescope will be due at the start of the class for which they are assigned.
 
-## Course Structure and Assignments
-### Primary Objectives, Quarter 1
+# Course Expectations and Assignments
+
+### Quarter One Project (70%)
 * Introduce students to the area in which they will do their project through replicating a known result.
+* Students will complete coding tasks related to the replication project and are also responsible for creating a final writeup
 * Create written material and code that serves as a foundation for work in quarter-2’s projects.
-* Closely read example papers in the domain to learn best-practices for communication in the chosen field.
+* Full details of the requirements for the Q1 project can be found in the Capstone Program Syllabus
 
-### Result replication topic
-*Coming Soon*
+### Quarter Two Project Proposal (15%)
+* Students will develop a project proposal for Q2 based on their learnings and interests from the course readings and the replication project
+* Full details of the requirements for the project proposal can be found in the Capstone Program Syllabus
 
-### Grading: 
-Please see the Capstone Program Syllabus for a detailed description of the assignment weights and rubric
-
-### Weekly Participation Credit: Weekly Reading and corresponding discussion post, **plus *one* in-class brief**
-Each week, students will be assigned a set of readings. There is no textbook for this course; all readings are freely available and links will be provided. Each student is responsible for reading all content in full prior to the start of each week’s course, as the readings will guide the week’s discussion. Students will be responsible for engaging with the readings in the following ways:
-
-  * **Weekly Readings:** _It is suggested to read these early in the week so you may post in the discussion, or present your brief_
-  * **Discussion Questions:** For each set of weekly readings, discussion questions will be provided. These responses will be **due 24 hours prior to the start of each session. Post responses to discussion questions to Gradescope.
-  * **In-class Brief:** Following the first session, students will have the opportunity to sign up to present on one of the course readings. Students are responsible for creating a PowerPoint presentation summarizing the reading, including its background, methodology, argument/key contributions, and their thoughts on the implications/impact of the article. Reading presentations are due via Gradescope prior to the start of the session for which the reading is assigned; students are also responsible for presenting to the rest of the class during the session. Presentations should take five minutes. 
-
-
----
-
-# Section Participation
-
+## Weekly Participation Credit
 Participation in the weekly discussion section is *mandatory*. Each
 week, you are responsible for doing the reading/task assigned in the
 [schedule](#schedule). Come to section prepared to ask questions about
 and discuss the results of these tasks. 
+
+### Participation Questions (5%)
+Students must post responses to participation questions (available on the course website) on Gradescope 24 hours prior to the start of each class session
+
+### Overall Participation (5%)
+* Students are responsible for completing the readings in full prior to the start of each week’s session in order to facilitate productive class discussion. All readings will be freely available and linked in the course website
+* Each student is responsible for preparing one five-minute in-class brief on one of the academic papers assigned as readings (more on this at the end of class)
+* For each writeup prompt (available on the course website), students are responsible for responding in at least 500 words (one single-spaced page). Writeups are due via Gradescope before the start of the session in which they are due. 
+
+### Grading and Assignment Submission
+Participation questions should be submitted to Gradescope and will be due 24 hours prior to the start of the class for which they are assigned. Other assignments, including both one-off tasks and assignments related to the replication project, should be submitted to Gradescope will be due at the start of the class for which they are assigned.
+
+Please see the Capstone Program Syllabus for a detailed description of the assignment weights and rubric. 
 
 ---
 
