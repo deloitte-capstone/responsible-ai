@@ -15,7 +15,7 @@ doodle: /doodle.png
 Please read the following:
 * [Syllabus]
 * [Deloitte’s Trustworthy AI Introduction](https://www2.deloitte.com/us/en/pages/deloitte-analytics/solutions/ethics-of-ai-framework.html)
-* (Volkinger et al.) [Mitigating bias in machine learning for medicine](https://doi.org/10.1038/s43856-021-00028-w)
+* [Mitigating bias in machine learning for medicine](https://doi.org/10.1038/s43856-021-00028-w), (_Volkinger et al._) 
 
 ## Participation Questions
 * Introduce yourself. Who are you and why did you select this domain within the capstone?
