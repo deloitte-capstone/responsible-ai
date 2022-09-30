@@ -82,10 +82,10 @@ and discuss the results of these tasks.
 |Week|Topic|
 |--|--|
 |1|[Introduction to Trustworthy AI]({{ "weeks/01-Introduction-to-Trustworthy-AI" | absolute_url }})|
-|2|[A Multi-Stakeholder Perspective on Ethical AI]| _Coming Soon_ |
+|2|[A Multi-Stakeholder Perspective on Ethical AI]({{ "weeks/01-Introduction-to-Trustworthy-AI" | absolute_url }})|
 |3|[Replication Project Part 0: Introduction]| _Coming Soon_ |
 |4|[Replication Project Part 1: EDA, Running Data Science Teams]| _Coming Soon_ |
-|5|[AI Regulations]({{ "/weeks/05-AI-Regulations"| _Coming Soon_ |
+|5|[AI Regulations]| [_Coming Soon_ ] |
 |6|[Replication Project Part 2: Bias Assessment]| _Coming Soon_ |
 |7|[Replication Project Part 3: Fairness Assessments and Improvements]| _Coming Soon_ |
 |8|[Capstone Planning: Avoiding Techno-Solutionism]| _Coming Soon_ |
