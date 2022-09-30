@@ -9,6 +9,7 @@ permalink: /
 
 | Q1 Fall 2022 | [Classes held on **Zoom**](https://ucsd.zoom.us/j/96921239764) | Fridays at 10AM PT |
 
+
 ### Developed by David Danks, Jeffry Liu, Nandita Rahman, Aritra Nath, Emma Harvey, Meira Gilbert, and Rasmus Nielsen.
 
 ---
