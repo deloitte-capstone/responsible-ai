@@ -1,7 +1,7 @@
 ---
 layout: week
 title: Week 01
-permalink: /weeks/01-Introduction/
+permalink: /weeks/01-Introduction-to-Trustworthy-AI/
 doodle: /doodle.png
 ---
 
