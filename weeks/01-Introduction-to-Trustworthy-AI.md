@@ -26,10 +26,10 @@ Please read the following:
 
 ## For Next Week
 * Sign up for an [in-class brief](https://docs.google.com/spreadsheets/d/1DNA4mQLQmbhFEtm74PEPsUDTEGx0pK_BFzlQcltFaMg/edit?usp=sharing) by 10AM on Monday, October 3
-* Complete next week’s readings (_To Be Updated by 10/01/2022_)
+* Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/02-Perspectives-on-Ethical-AI/) readings
     * If you sign up to present on **"Inherent Trade-Offs in the Fair Determination of Risk Scores, Who Audits the Auditors?,"** come prepared to present next week and submit your presentation on
 Gradescope by 10AM PT on Friday, October 7
-* Submit your answers to next week’s participation questions to Gradescope by 10AM PT on Thursday, October 6 (_To Be Updated by 10/01/2022_)
+* Submit your answers to [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/02-Perspectives-on-Ethical-AI/) participation questions to Gradescope by 10AM PT on Thursday, October 6
 * Submit your response to [Writeup #1](https://github.com/nanrahman/capstone-responsible-ai/blob/74fe4b1189978cc401c9543eae58d59960e8ff8b/notes/week-01/Writeup%20%231.docx) to Gradescope by 10AM PT on Friday, October 7
 
 ---
