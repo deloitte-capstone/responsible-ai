@@ -5,7 +5,7 @@ permalink: /weeks/02-Perspectives-on-Ethical-AI/
 doodle: /doodle.png
 ---
 
-# Data: Code Parsing, Malware
+# A Multi-Stakeholder Perspective on Ethical AI
 
 ## Topics
 
