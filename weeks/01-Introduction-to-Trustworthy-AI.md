@@ -13,26 +13,19 @@ doodle: /doodle.png
 
 ## Pre-Class Readings
 Please read the following:
-* [Introduction to Malware](https://www.greycampus.com/blog/information-security/introduction-to-malware-definition-attacks-types-and-analysis)
-* Wired's article [Android's Malware Problem](https://www.wired.com/story/android-malware-app-defense-alliance/)
-* [Hindroid](https://www.cse.ust.hk/~yqsong/papers/2017-KDD-HINDROID.pdf)
-  (Read the Introduction)
+* [Deloitte’s Trustworthy AI Introduction]([https://www.greycampus.com/blog/information-security/introduction-to-malware-definition-attacks-types-and-analysis](https://www2.deloitte.com/us/en/pages/deloitte-analytics/solutions/ethics-of-ai-framework.html))
+* (Volkinger et al.) [Mitigating bias in machine learning for medicine](https://doi.org/10.1038/s43856-021-00028-w)
 
 ## Participation Questions
-
 * Introduce yourself. Who are you and why did you select this domain within the capstone?
 * Talk about a time when AI/ML had a real-world impact on the life of you or someone you know. 
 * what would you consider a sentence or paragraph?
 * What characteristics, in your opinion, does an AI system need to have in order to be “ethical”?
 
-Answer the following questions on Canvas:
-
-* How is learning computer code different than typical approachs to
-  NLP (e.g. n-gram models)? What would an NLP model fail to learn?
-  Give an example.
-* What are the different ways Malware might attack a mobile device
-  through an application?
-* What are the primary ways of analyzing source code for evidence of Malware?
+## Assignment (Submit on Gradescope)
+**Writeup #1:** 
+* After going through the class readings, identify places where ethical AI issues or harms could be present. 
+* Outline what the consequences of those harms could be and propose ways to identify and mitigate those harms.
 
 ## Due
-* N/A
+* 10/07/22, Before Start of Class
