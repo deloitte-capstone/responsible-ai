@@ -31,3 +31,6 @@ Please read the following:
 
 ## For Next Week
 
+---
+[Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
+---
