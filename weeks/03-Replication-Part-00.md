@@ -1,11 +1,11 @@
 ---
 layout: week
 title: Week 03
-permalink: /weeks/03-Android-Graphs/
+permalink: /weeks/03-Replication-Part-00/
 doodle: /doodle.png
 ---
 
-# Creating Graphs from Code; What is Malware?
+# Replication Project Part 0: Introduction
 
 ## Topics
 
