@@ -82,15 +82,15 @@ and discuss the results of these tasks.
 |Week|Topic|
 |--|--|
 |1|[Introduction to Trustworthy AI]({{ "weeks/01-Introduction-to-Trustworthy-AI" | absolute_url }})|
-|2|[A Multi-Stakeholder Perspective on Ethical AI]({{ "/weeks/02-Perspective-on-Ethical-AI" | absolute_url }})|
-|3|[Replication Project Part 0: Introduction]({{ "/weeks/03-Replication-Part-00" | absolute_url }})|
-|4|[Replication Project Part 1: EDA, Running Data Science Teams]({{ "/weeks/04-Replication-Part-01" | absolute_url }})|
-|5|[AI Regulations]({{ "/weeks/05-AI-Regulations" | absolute_url }})|
-|6|[Replication Project Part 2: Bias Assessment]({{ "/weeks/06-Replication-Part-02" | absolute_url }})|
-|7|[Replication Project Part 3: Fairness Assessments and Improvements]({{ "/weeks/07-Replication-Part-03" | absolute_url }})|
-|8|[Capstone Planning: Avoiding Techno-Solutionism]({{ "/weeks/08-Capstone-Planning-Techno-Solutionism" | absolute_url }})|
-|9|[Replication Project Part 4: Presentations]({{ "/weeks/09-Replication-Part-04" | absolute_url }})|
-|10|Present Proposals|
+|2|[A Multi-Stakeholder Perspective on Ethical AI]| _Coming Soon_ |
+|3|[Replication Project Part 0: Introduction]| _Coming Soon_ |
+|4|[Replication Project Part 1: EDA, Running Data Science Teams]| _Coming Soon_ |
+|5|[AI Regulations]({{ "/weeks/05-AI-Regulations"| _Coming Soon_ |
+|6|[Replication Project Part 2: Bias Assessment]| _Coming Soon_ |
+|7|[Replication Project Part 3: Fairness Assessments and Improvements]| _Coming Soon_ |
+|8|[Capstone Planning: Avoiding Techno-Solutionism]| _Coming Soon_ |
+|9|[Replication Project Part 4: Presentations]| _Coming Soon_ |
+|10|Present Proposals| _Coming Soon_ |
 
 ---
 
