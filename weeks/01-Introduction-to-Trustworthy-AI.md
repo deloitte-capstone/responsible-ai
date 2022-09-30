@@ -13,13 +13,13 @@ doodle: /doodle.png
 
 ## Pre-Class Readings
 Please read the following:
-* [Deloitte’s Trustworthy AI Introduction]([https://www.greycampus.com/blog/information-security/introduction-to-malware-definition-attacks-types-and-analysis](https://www2.deloitte.com/us/en/pages/deloitte-analytics/solutions/ethics-of-ai-framework.html))
+* [Syllabus]
+* [Deloitte’s Trustworthy AI Introduction](https://www2.deloitte.com/us/en/pages/deloitte-analytics/solutions/ethics-of-ai-framework.html)
 * (Volkinger et al.) [Mitigating bias in machine learning for medicine](https://doi.org/10.1038/s43856-021-00028-w)
 
 ## Participation Questions
 * Introduce yourself. Who are you and why did you select this domain within the capstone?
 * Talk about a time when AI/ML had a real-world impact on the life of you or someone you know. 
-* what would you consider a sentence or paragraph?
 * What characteristics, in your opinion, does an AI system need to have in order to be “ethical”?
 
 ## Assignment (Submit on Gradescope)
