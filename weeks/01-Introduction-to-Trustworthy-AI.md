@@ -13,7 +13,7 @@ doodle: /doodle.png
 
 ## Pre-Class Readings
 Please read the following:
-* [Syllabus]
+* [Syllabus](https://github.com/nanrahman/capstone-responsible-ai/blob/b6f8d2d1a99ebac17b881119a51cec7ea5918d57/UCSD%20Q1%20Capstone%20Syllabus%20-%20Deloitte_online.pdf)
 * [Deloitte’s Trustworthy AI Introduction](https://www2.deloitte.com/us/en/pages/deloitte-analytics/solutions/ethics-of-ai-framework.html)
 * [Mitigating bias in machine learning for medicine](https://doi.org/10.1038/s43856-021-00028-w), (_Volkinger et al._) 
 
