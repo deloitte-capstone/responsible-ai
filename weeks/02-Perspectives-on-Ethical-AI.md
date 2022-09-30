@@ -1,7 +1,7 @@
 ---
 layout: week
 title: Week 02
-permalink: /weeks/02-Data/
+permalink: /weeks/02-Perspectives-on-Ethical-AI/
 doodle: /doodle.png
 ---
 
