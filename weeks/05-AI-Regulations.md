@@ -1,11 +1,11 @@
 ---
 layout: week
 title: Week 01
-permalink: /weeks/05-Baseline-Model/
+permalink: /weeks/05-AI-Regulations/
 doodle: /doodle.png
 ---
 
-# Baseline Model Cont. / Commuting Matrices
+# AI Regulations
 
 ## Topics
 
