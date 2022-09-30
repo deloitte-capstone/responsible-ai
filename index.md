@@ -39,10 +39,10 @@ As one of the largest professional services organizations in the United States, 
 * Deloitte: Will hold ad-hoc office hours (TBD) for assistance with replication project materials
 
 ### Course Communications
-Please send any questions to the Responsible AI Microsoft Teams Channel (*Sign up Link TBA*): 
-* Channel link: *coming soon*
-* For any issues with MS Teams, email Nandita Rahman (nanrahman@deloitte.com) or your UCSD Faculty Mentor
-For private or personal questions, you can reach out to the course instructors privately via MS Teams or email (ddanks@ucsd.edu). 
+Please send any questions to the Responsible AI Slack Channel (*Sign up Link TBA*): 
+* Slack Channel link: *coming soon*
+* For any issues with Slack, email Nandita Rahman (nanrahman@deloitte.com) or your UCSD Faculty Mentor
+For private or personal questions, you can reach out to the course instructors privately via email (ddanks@ucsd.edu). 
 
 ## Assignment Submission
 Participation questions should be submitted to Gradescope and will be due 24 hours prior to the start of the class for which they are assigned. Other assignments, including both one-off tasks and assignments related to the replication project, should be submitted to Gradescope will be due at the start of the class for which they are assigned.
