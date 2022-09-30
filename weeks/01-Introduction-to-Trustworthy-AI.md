@@ -13,19 +13,18 @@ doodle: /doodle.png
 
 ## Pre-Class Readings
 Please read the following:
-* [Syllabus](_updating_)
 * [Deloitte’s Trustworthy AI Introduction](https://www2.deloitte.com/us/en/pages/deloitte-analytics/solutions/ethics-of-ai-framework.html)
-* [Mitigating bias in machine learning for medicine](https://doi.org/10.1038/s43856-021-00028-w), (_Volkinger et al._) 
 
 ## Participation Questions
 * Introduce yourself. Who are you and why did you select this domain within the capstone?
 * Talk about a time when AI/ML had a real-world impact on the life of you or someone you know. 
 * What characteristics, in your opinion, does an AI system need to have in order to be “ethical”?
 
-## Assignment (Submit on Gradescope)
-**Writeup #1:** 
-* After going through the class readings, identify places where ethical AI issues or harms could be present. 
-* Outline what the consequences of those harms could be and propose ways to identify and mitigate those harms.
-
-## Due
-* 10/07/22, Before Start of Class
+## For Next Week
+* Sign up for an in-class brief by 10AM on Monday, October 3
+* Complete next week’s readings
+    * If you sign up to present on Inherent Trade-Offs in the Fair Determination of Risk Scores
+    * Who Audits the Auditors?, come prepared to present next week and submit your presentation on
+Gradescope by 10AM PT on Friday, October 7
+* Submit your answers to next week’s participation questions to Gradescope by 10AM PT on Thursday, October 6
+* Submit your response to Writeup #1 to Gradescope by 10AM PT on Friday, October 7
