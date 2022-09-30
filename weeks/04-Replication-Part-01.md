@@ -1,11 +1,11 @@
 ---
 layout: week
 title: Week 01
-permalink: /weeks/04-Graph-Features/
+permalink: /weeks/04-Replication-Part-01/
 doodle: /doodle.png
 ---
 
-# Extracting Statistics from Source Code
+# Replication Project Part 1: EDA, Running Data Science Teams
 
 ## Topics
 
