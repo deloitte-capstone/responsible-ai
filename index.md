@@ -79,9 +79,9 @@ and discuss the results of these tasks.
 
 # Schedule
 
-|Week|Topic||
-|--|--||
-|1|[Introduction to Trustworthy AI]({{ "weeks/01-Introduction-to-Trustworthy-AI" | absolute_url }})||
+|Week|Topic|--|
+|--|--|--|
+|1|[Introduction to Trustworthy AI]({{ "weeks/01-Introduction-to-Trustworthy-AI" | absolute_url }})|--|
 |2|[A Multi-Stakeholder Perspective on Ethical AI]|_Coming Soon_|
 |3|[Replication Project Part 0: Introduction]|_Coming Soon_|
 |4|[Replication Project Part 1: EDA, Running Data Science Teams]|_Coming Soon_|
