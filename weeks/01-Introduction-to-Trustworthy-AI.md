@@ -31,3 +31,7 @@ Please read the following:
 Gradescope by 10AM PT on Friday, October 7
 * Submit your answers to next week’s participation questions to Gradescope by 10AM PT on Thursday, October 6 (_To Be Updated by 10/01/2022_)
 * Submit your response to [Writeup #1](https://github.com/nanrahman/capstone-responsible-ai/blob/74fe4b1189978cc401c9543eae58d59960e8ff8b/notes/week-01/Writeup%20%231.docx) to Gradescope by 10AM PT on Friday, October 7
+
+---
+[Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
+---
