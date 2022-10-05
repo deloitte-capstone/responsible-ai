@@ -36,7 +36,7 @@ As one of the largest professional services organizations in the United States, 
 
 # Course Resources
 ### Office Hours
-* Professor Danks will hold office hours Wednesdays 3-4PM in UC 302, Room 101 
+* Professor Danks will hold office hours Wednesdays 1-2PM in UC 302, Room 101 
 * Deloitte: Will hold ad-hoc office hours (TBD) for assistance with replication project materials
 
 ### Course Communications
