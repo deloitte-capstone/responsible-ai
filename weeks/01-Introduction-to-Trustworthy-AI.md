@@ -16,8 +16,7 @@ Please read the following:
 * [Deloitte’s Trustworthy AI Introduction](https://www2.deloitte.com/us/en/pages/deloitte-analytics/solutions/ethics-of-ai-framework.html)
 
 ## Weekly Slides
-* [Discussion Scenarios](https://github.com/nanrahman/capstone-responsible-ai/blob/d0cd3cde3e64d03c9c46982f92548a9c9f48b20a/notes/week-01/Week%201%20-%20Discussion%20Scenarios.pdf)
-* [Week-01 Slides](https://github.com/nanrahman/capstone-responsible-ai/blob/d0cd3cde3e64d03c9c46982f92548a9c9f48b20a/notes/week-01/Week%201%20-%20Discussion%20Scenarios.pdf)
+* [Week 01 Slides](https://github.com/nanrahman/capstone-responsible-ai/blob/master/notes/week-01/Week%201%20-%20Responsible%20AI.pdf)
 
 ## Participation Questions
 * Introduce yourself. Who are you and why did you select this domain within the capstone?
@@ -27,7 +26,7 @@ Please read the following:
 ## For Next Week
 * Sign up for an [in-class brief](https://docs.google.com/spreadsheets/d/1DNA4mQLQmbhFEtm74PEPsUDTEGx0pK_BFzlQcltFaMg/edit?usp=sharing) by 10AM on Monday, October 3
 * Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/02-Perspectives-on-Ethical-AI/) readings
-    * If you sign up to present on **"Inherent Trade-Offs in the Fair Determination of Risk Scores, Who Audits the Auditors?,"** come prepared to present next week and submit your presentation on
+    * If you sign up to present on **"Inherent Trade-Offs in the Fair Determination of Risk Scores"** or **"Who Audits the Auditors?,"** come prepared to present next week and submit your presentation on
 Gradescope by 10AM PT on Friday, October 7
 * Submit your answers to [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/02-Perspectives-on-Ethical-AI/) participation questions to Gradescope by 10AM PT on Thursday, October 6
 * Submit your response to [Writeup #1](https://github.com/nanrahman/capstone-responsible-ai/blob/d0cd3cde3e64d03c9c46982f92548a9c9f48b20a/notes/week-01/Writeup_1.pdf) to Gradescope by 10AM PT on Friday, October 7
