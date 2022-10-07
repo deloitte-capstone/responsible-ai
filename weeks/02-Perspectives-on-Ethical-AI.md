@@ -33,7 +33,7 @@ Please read the following:
 
 ## For Next Week
 * Sign up for an [in-class brief](https://docs.google.com/spreadsheets/d/1DNA4mQLQmbhFEtm74PEPsUDTEGx0pK_BFzlQcltFaMg/edit?usp=sharing) if you haven't already
-* Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/03-Replication-Part-00.md/) readings
+* Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/03-Replication-Part-00/) readings
     * If you signed up to present on [**"Datasheets for Datasets (Gebru et al.)"**](https://arxiv.org/abs/1803.09010) or [**"AI Fairness 360 (Bellamy et al.)"**](https://arxiv.org/pdf/1810.01943.pdf) come prepared to present next week and submit your presentation on
 Gradescope by 10AM PT on Friday, October 14
 * Submit your answers to [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/03-Replication-Part-00/) participation questions to Gradescope by 10AM PT on Thursday, October 13
