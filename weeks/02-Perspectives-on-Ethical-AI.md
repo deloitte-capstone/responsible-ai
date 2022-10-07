@@ -24,18 +24,17 @@ Please read the following:
 * Submit your answers to next week’s participation questions to Gradescope by 10AM PT on Thursday, October 6 
 
 ### In-class Brief
-* Sign up for an [in-class brief](https://docs.google.com/spreadsheets/d/1DNA4mQLQmbhFEtm74PEPsUDTEGx0pK_BFzlQcltFaMg/edit?usp=sharing) by 10AM on Monday, October 3
-* If you sign up to present on **"Inherent Trade-Offs in the Fair Determination of Risk Scores, Who Audits the Auditors?,"** come prepared to present next week and submit your presentation on Gradescope by 10AM PT on Friday, October 7
+* If you signed up to present on **"Inherent Trade-Offs in the Fair Determination of Risk Scores, Who Audits the Auditors?,"** come prepared to present next week and submit your presentation on Gradescope by 10AM PT on Friday, October 7
 
 ## Weekly Slides
-* [Week 02 Multi-Stakeholder Perspectives on Ethical AI](https://github.com/nanrahman/capstone-responsible-ai/blob/213bb876b75e0a25d6187f6b923cf4c9b4b45597/notes/week-02/Week%202%20A%20Multi-Stakeholder%20Perspective%20on%20Ethical%20AI.pdf)
+* [Week 02: A Multi-Stakeholder Perspective on Ethical AI](https://github.com/nanrahman/capstone-responsible-ai/blob/213bb876b75e0a25d6187f6b923cf4c9b4b45597/notes/week-02/Week%202%20A%20Multi-Stakeholder%20Perspective%20on%20Ethical%20AI.pdf)
 
 ---
 
 ## For Next Week
-* Sign up for an [in-class brief](https://docs.google.com/spreadsheets/d/1DNA4mQLQmbhFEtm74PEPsUDTEGx0pK_BFzlQcltFaMg/edit?usp=sharing) by 10AM on Monday, October 3
+* Sign up for an [in-class brief](https://docs.google.com/spreadsheets/d/1DNA4mQLQmbhFEtm74PEPsUDTEGx0pK_BFzlQcltFaMg/edit?usp=sharing) if you haven't already
 * Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/03-Replication-Part-00.md/) readings
-    * If you sign up to present on [**"Datasheets for Datasets (Gebru et al.)"**](https://arxiv.org/abs/1803.09010) come prepared to present next week and submit your presentation on
+    * If you signed up to present on [**"Datasheets for Datasets (Gebru et al.)"**](https://arxiv.org/abs/1803.09010) or [**"AI Fairness 360 (Bellamy et al.)"**](https://arxiv.org/pdf/1810.01943.pdf) come prepared to present next week and submit your presentation on
 Gradescope by 10AM PT on Friday, October 14
 * Submit your answers to [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/03-Replication-Part-00/) participation questions to Gradescope by 10AM PT on Thursday, October 13
 * Submit your response to *Writeup #2* (link coming soon) to Gradescope by 10AM PT on Friday, October 14
