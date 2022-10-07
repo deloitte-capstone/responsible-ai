@@ -29,7 +29,15 @@ Please read the following:
 
 ## Weekly Slides
 
+---
+
 ## For Next Week
+* Sign up for an [in-class brief](https://docs.google.com/spreadsheets/d/1DNA4mQLQmbhFEtm74PEPsUDTEGx0pK_BFzlQcltFaMg/edit?usp=sharing) by 10AM on Monday, October 3
+* Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/03-Replication-Part-00.md/) readings
+    * If you sign up to present on [**"Datasheets for Datasets (Gebru et al.)"**](https://arxiv.org/abs/1803.09010) come prepared to present next week and submit your presentation on
+Gradescope by 10AM PT on Friday, October 14
+* Submit your answers to [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/03-Replication-Part-00/) participation questions to Gradescope by 10AM PT on Thursday, October 13
+* Submit your response to *Writeup #2* (link coming soon) to Gradescope by 10AM PT on Friday, October 14
 
 ---
 [Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
