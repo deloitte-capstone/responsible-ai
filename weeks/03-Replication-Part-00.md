@@ -2,7 +2,7 @@
 layout: week
 title: Week 03
 permalink: /weeks/03-Replication-Part-00/
-doodle: /doodle.png
+doodle: /images/bongo.gif
 ---
 
 # Replication Project Part 0: Introduction
