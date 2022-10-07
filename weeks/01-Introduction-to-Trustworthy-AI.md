@@ -15,13 +15,13 @@ doodle: /doodle.png
 Please read the following:
 * [Deloitte’s Trustworthy AI Introduction](https://www2.deloitte.com/us/en/pages/deloitte-analytics/solutions/ethics-of-ai-framework.html)
 
-## Weekly Slides
-* [Week 01 Slides](https://github.com/nanrahman/capstone-responsible-ai/blob/master/notes/week-01/Week%201%20-%20Responsible%20AI.pdf)
-
 ## Participation Questions
 * Introduce yourself. Who are you and why did you select this domain within the capstone?
 * Talk about a time when AI/ML had a real-world impact on the life of you or someone you know. 
 * What characteristics, in your opinion, does an AI system need to have in order to be “ethical”?
+
+## Weekly Slides
+* [Week 01: Introduction](https://github.com/nanrahman/capstone-responsible-ai/blob/master/notes/week-01/Week%201%20-%20Responsible%20AI.pdf)
 
 ## For Next Week
 * Sign up for an [in-class brief](https://docs.google.com/spreadsheets/d/1DNA4mQLQmbhFEtm74PEPsUDTEGx0pK_BFzlQcltFaMg/edit?usp=sharing) by 10AM on Monday, October 3
