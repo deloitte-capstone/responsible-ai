@@ -2,7 +2,7 @@
 layout: week
 title: Week 01
 permalink: /weeks/01-Introduction-to-Trustworthy-AI/
-doodle: /doodle.png
+doodle: /images/xkcd_hiring.png
 ---
 
 # Introduction to Responsible AI
