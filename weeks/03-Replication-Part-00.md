@@ -43,5 +43,3 @@ compute, so start early!
 ---
 [Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
 ---
-
-  *similar*. How will these similarities help us identify malware?
