@@ -17,7 +17,7 @@ This week's assignments will guide you through the following topics:
 Please read the following:
 * [AI fairness 360: an extensible toolkit for detecting, understanding, and mitigating unwanted algorithmic bias](https://arxiv.org/pdf/1810.01943.pdf)
 * [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) (Gebru et al.)
-* [AI Fairness 360 Demo] (https://aif360.mybluemix.net/data)
+* [AI Fairness 360 Demo](https://aif360.mybluemix.net/data)
 
 ## Participation Questions
 * What are some ways that data can introduce bias into an AI/ML model? List as many as you can think of.
