@@ -42,8 +42,8 @@ As one of the largest professional services organizations in the United States, 
 ### Course Communications
 Please send any questions to the Responsible AI Slack Channel (*Sign up Link TBA*): 
 * Slack Channel link: *coming soon*
-* For any issues with Slack, email Nandita Rahman (nanrahman@deloitte.com) or your UCSD Faculty Mentor
-For private or personal questions, you can reach out to the course instructors privately via email (ddanks@ucsd.edu). 
+* For any issues with Slack, email Nandita Rahman (nanrahman@deloitte.com) or your David Danks (ddanks@ucsd.edu)
+* For private or personal questions, you can reach out to David privately via email (ddanks@ucsd.edu)
 
 
 # Course Expectations and Assignments
@@ -52,11 +52,11 @@ For private or personal questions, you can reach out to the course instructors p
 * Introduce students to the area in which they will do their project through replicating a known result.
 * Students will complete coding tasks related to the replication project and are also responsible for creating a final writeup
 * Create written material and code that serves as a foundation for work in quarter-2’s projects.
-* Full details of the requirements for the Q1 project can be found in the Capstone Program Syllabus
+* Full details of the requirements for the Q1 project can be found in the [Capstone Program Syllabus](https://dsc-capstone.github.io/syllabus/)
 
 ### Quarter Two Project Proposal (15%)
 * Students will develop a project proposal for Q2 based on their learnings and interests from the course readings and the replication project
-* Full details of the requirements for the project proposal can be found in the Capstone Program Syllabus
+* Full details of the requirements for the project proposal can be found in the [Capstone Program Syllabus](https://dsc-capstone.github.io/syllabus/)
 
 ## Participation Credit
 Students are responsible for completing the readings in full prior to the start of each week’s session in order to facilitate productive class discussion. All readings will be freely available and linked in the course website. Participation in the weekly discussion section is *mandatory*. Each week, you are responsible for doing the reading/task assigned in the
