@@ -16,7 +16,7 @@ This week's assignments will guide you through the following topics:
 ## Pre-Class Readings
 Please read the following:
 * [AI fairness 360: an extensible toolkit for detecting, understanding, and mitigating unwanted algorithmic bias](https://arxiv.org/pdf/1810.01943.pdf)
-* [Datasheets for Datasetss](https://arxiv.org/abs/1803.09010)(Gebru et al.)
+* [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) (Gebru et al.)
 
 ## Participation Questions
 * TBD
@@ -28,7 +28,7 @@ Please read the following:
 ## In-class Slides
 * TBD
 
-## Assigned
+## Assigned for Week 04
 Complete the following tasks:
 * Replication Pre-Work (Part #0): Using directions (will be given to groups), setup notebook
 * Fill out team data team persona survey
