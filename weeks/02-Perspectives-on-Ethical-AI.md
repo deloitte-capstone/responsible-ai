@@ -28,6 +28,7 @@ Please read the following:
 * If you sign up to present on **"Inherent Trade-Offs in the Fair Determination of Risk Scores, Who Audits the Auditors?,"** come prepared to present next week and submit your presentation on Gradescope by 10AM PT on Friday, October 7
 
 ## Weekly Slides
+* [Week 02 Multi-Stakeholder Perspectives on Ethical AI](https://github.com/nanrahman/capstone-responsible-ai/blob/213bb876b75e0a25d6187f6b923cf4c9b4b45597/notes/week-02/Week%202%20A%20Multi-Stakeholder%20Perspective%20on%20Ethical%20AI.pdf)
 
 ---
 
