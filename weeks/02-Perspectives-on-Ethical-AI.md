@@ -2,7 +2,7 @@
 layout: week
 title: Week 02
 permalink: /weeks/02-Perspectives-on-Ethical-AI/
-doodle: /images/xkcd_bad_design.png
+doodle: /images/xkcd_disparate_treatment_impact.png
 ---
 
 # A Multi-Stakeholder Perspective on Ethical AI
