@@ -33,8 +33,6 @@ debiasing algorithms.
 
 ## Setup
 
-### R
-
 ### Python
 
 Supported Python Configurations:
