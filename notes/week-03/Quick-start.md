@@ -80,7 +80,7 @@ To install with complete functionality,  run:
 ```bash
 pip install aif360[all]
 ```
-## Step 3: Install Jupyter Lab
+### Step 3: Install Jupyter Lab
 
 ```bash
 conda install -c conda-forge jupyterlab
@@ -90,7 +90,21 @@ Once installed, to run Jupyter enter the following (ensuring you are in your aif
 ```bash
 jupyter-lab
 ```
-Refer to `Getting Started` and `User Guide` documentation on [Jupyter Notebooks](https://jupyterlab.readthedocs.io/en/stable/)for information on how to use. 
+Refer to `Getting Started` and `User Guide` documentation on [Jupyter Notebooks](https://jupyterlab.readthedocs.io/en/stable/)for information on how to use.
+
+### Step 4: Install other packages
+**Note:** these requirements may already be satisfied by AIF360, but just in case we list them here for install. 
+
+```bash
+pip install xgboost
+pip install wrapt
+pip install fairlearn
+pip install BlackBoxAuditing
+pip install lime
+conda install -c conda-forge imbalanced-learn
+pip install statsmodels
+pip install shap
+```
 
 ## Using AIF360
 
