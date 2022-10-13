@@ -31,9 +31,7 @@ in development. AIF360 encourages the contribution of your metrics, explainers, 
 debiasing algorithms.
 
 
-## Setup
-
-### Python
+# Setup (Python)
 
 Supported Python Configurations:
 
@@ -43,55 +41,56 @@ Supported Python Configurations:
 | Ubuntu  | 3.7, 3.8, 3.9  |
 | Windows | 3.7, 3.8, 3.9  |
 
-### (Optional) Create a virtual environment
-
+##  Step 1:Create a virtual environment
 AIF360 requires specific versions of many Python packages which may conflict
 with other projects on your system. A virtual environment manager is strongly
-recommended to ensure dependencies may be installed safely. If you have trouble
-installing AIF360, try this first.
+recommended to ensure dependencies may be installed safely.
 
-#### Conda
-
+### 1a: Install Conda
 Conda is recommended for all configurations though Virtualenv is generally
-interchangeable for our purposes. [Miniconda](https://conda.io/miniconda.html)
-is sufficient
+interchangeable for our purposes. [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+is sufficient, please refer to the link for installing on your operation system. 
 
-Then, to create a new Python 3.9 environment, run:
+### 1b: Create a new Python 3.9 virtual environment. 
+Activate conda and run:
 
 ```bash
 conda create --name aif360 python=3.9
 conda activate aif360
 ```
-
 The shell should now look like `(aif360) $`. To deactivate the environment, run:
 
 ```bash
 (aif360)$ conda deactivate
 ```
-
 The prompt will return to `$ `.
-
 Note: Older versions of conda may use `source activate aif360` and `source
 deactivate` (`activate aif360` and `deactivate` on Windows).
 
-### Install with `pip`
+## Step 2: Install AIFairness 360 Package
 
-To install the latest stable version from PyPI, with complete functionality,  run:
+### 2a: Ensure conda is running, now initialize your `aif360` conda environment.
+Refer to the [Conda User Guide](https://docs.conda.io/projects/conda/en/latest/user-guide/index.html), 
+which includes a good walkthrough on how to use.
+
+### 2b: Install AIF360 with `pip`
+With your `aif360` environment running, install the latest stable version from PyPI.
+To install with complete functionality,  run:
 
 ```bash
 pip install aif360[all]
 ```
-If you encounter any errors, try the [Troubleshooting](#troubleshooting) steps.
+## Step 3: Install Jupyter Lab
 
-#### Run the Examples
+```bash
+conda install -c conda-forge jupyterlab
+```
+Once installed, to run Jupyter enter the following (ensuring you are in your aif360 env)
 
-Finally, if you did not already, download the datasets as described in
-[aif360/data/README.md](aif360/data/README.md).
-
-### Troubleshooting
-
-If you encounter any errors during the installation process, look for your
-issue here and try the solutions.
+```bash
+jupyter-lab
+```
+Refer to `Getting Started` and `User Guide` documentation on [Jupyter Notebooks](https://jupyterlab.readthedocs.io/en/stable/)for information on how to use. 
 
 ## Using AIF360
 
