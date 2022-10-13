@@ -106,11 +106,18 @@ pip install statsmodels
 pip install shap
 ```
 
-## Using AIF360
-
+## Step 5: Test out install and using AIF360
 The `examples` directory in the [AIF360 Repository](https://github.com/Trusted-AI/AIF360/tree/master/examples) 
 contains a diverse collection of jupyter notebooks that use AI Fairness 360 in various ways. Both tutorials and demos illustrate
 working code using AIF360. Tutorials provide additional discussion that walks the user through the various steps of the notebook. See the details about [AIF360](https://github.com/Trusted-AI/AIF360) in their central repository.
+
+### Step 5a: Fork the AIF360 Repository into your own GitHub Repo
+* Fork the AIF360 [Repository](https://github.com/Trusted-AI/AIF360) in your own respective Repo
+* Clone your forked repository to a local location so you can launch Jupyter labs
+
+### Step 5b: Launch an example notebook
+* Launch the `Bias Advertising` Jupyter [notebook](https://github.com/nanrahman/AIF360/blob/master/examples/tutorial_bias_advertising.ipynb)
+* Follow instructions for downloading necessary data and run notebook
 
 ## Citing AIF360
 
