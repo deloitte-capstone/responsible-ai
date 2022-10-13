@@ -94,11 +94,9 @@ Refer to `Getting Started` and `User Guide` documentation on [Jupyter Notebooks]
 
 ## Using AIF360
 
-The `examples` directory in the [AIF360 Repository](https://github.com/Trusted-AI/AIF360) contains a diverse collection of jupyter notebooks
-that use AI Fairness 360 in various ways. Both tutorials and demos illustrate
-working code using AIF360. Tutorials provide additional discussion that walks
-the user through the various steps of the notebook. See the details about
-[tutorials and demos here](https://github.com/Trusted-AI/AIF360/tree/master/examples)
+The `examples` directory in the [AIF360 Repository](https://github.com/Trusted-AI/AIF360/tree/master/examples) 
+contains a diverse collection of jupyter notebooks that use AI Fairness 360 in various ways. Both tutorials and demos illustrate
+working code using AIF360. Tutorials provide additional discussion that walks the user through the various steps of the notebook. See the details about [AIF360](https://github.com/Trusted-AI/AIF360) in their central repository.
 
 ## Citing AIF360
 
