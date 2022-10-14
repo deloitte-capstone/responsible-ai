@@ -25,3 +25,7 @@ Please read the following:
 
 ## Assigned for Week 05
 *Coming Soon*
+
+---
+[Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
+---
