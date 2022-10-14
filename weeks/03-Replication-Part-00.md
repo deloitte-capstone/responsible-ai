@@ -32,7 +32,7 @@ _Submit to Gradescope by 10AM PT on Thursday, October 13th_
 Complete the following tasks:
 * Replication Pre-Work (Part #0): Using [QuickStart Guide](https://github.com/nanrahman/capstone-responsible-ai/blob/483282f030af9225528cee3935203bb612ca71da/notes/week-03/Quick-start.md), set up your notebook
   * Primary contact for replication project: Nandita Rahman (nanrahman@deloitte.com)
-* Fill out the data science team persona survey
+* Fill out the [data science team persona survey](https://forms.gle/5Fv7XZDABVEzphQ88) by 10 PM PT, Thursday, October 20th
 
 **Note:** These tasks will be difficult, and will potentially take a while to compute, so start early!
 
