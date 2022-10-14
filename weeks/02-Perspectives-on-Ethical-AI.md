@@ -35,7 +35,7 @@ _Submit to Gradescope by 10AM PT on Thursday, October 6_
     * If you signed up to present on [**"Datasheets for Datasets" (Gebru et al.)**](https://arxiv.org/abs/1803.09010) or [**"AI Fairness 360" (Bellamy et al.)**](https://arxiv.org/pdf/1810.01943.pdf) come prepared to present next week and submit your presentation on
 Gradescope by 10AM PT on Friday, October 14
 * Submit your answers to [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/03-Replication-Part-00/) participation questions to Gradescope by 10AM PT on Thursday, October 13
-* Submit your response to [Writeup #2](https://github.com/nanrahman/capstone-responsible-ai/blob/93605e16204b5402b81c6b51f1ca33f496d8ea87/notes/week-02/Writeup%20%232.pdf) to Gradescope by 10AM PT on Friday, October 14
+* Submit your response to [Writeup #2](https://github.com/nanrahman/capstone-responsible-ai/blob/93605e16204b5402b81c6b51f1ca33f496d8ea87/notes/week-02/Writeup%20%232.pdf) to Gradescope by 10AM PT on ~~Friday, October 14~~ **Wednesday, October 19**
 
 ---
 [Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
