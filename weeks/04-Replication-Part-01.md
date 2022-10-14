@@ -17,6 +17,7 @@ Please read the following:
 * [Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?](https://arxiv.org/pdf/1812.05239.pdf) (Holstein et al.)
 
 ## Participation Questions
+*Submit to Gradescope by 10AM PT on Thursday, October 20th*
 * What role do you see yourself taking on in a data science team, and why?
 * Describe a time when you struggled to complete an assignment (career or academic). What was missing (resources, support, etc.)? How did you resolve it?
 
