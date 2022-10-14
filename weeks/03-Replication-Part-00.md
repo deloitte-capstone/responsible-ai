@@ -26,10 +26,13 @@ _Submit to Gradescope by 10AM PT on Thursday, October 13th_
 * After going through the AIF360 demo, what are some missing any features that you think are important? What is still unclear?
 
 ## This Week's Slides
-* [Week-03-Slides](https://github.com/nanrahman/capstone-responsible-ai/blob/483282f030af9225528cee3935203bb612ca71da/notes/week-03/Week-3-slides.pdf)
+* [Week 03: Replication Project Part 0](https://github.com/nanrahman/capstone-responsible-ai/blob/483282f030af9225528cee3935203bb612ca71da/notes/week-03/Week-3-slides.pdf)
 
 ## Assigned for Week 04
-Complete the following tasks:
+* Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/04-Replication-Part-01/) readings
+    * If you signed up to present on [**"Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?" (Holstein et al.)**](https://arxiv.org/pdf/1812.05239.pdf) come prepared to present next week and submit your presentation on Gradescope by 10AM PT on Friday, October 21
+* Submit your answers to [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/04-Replication-Part-01/) participation questions to Gradescope by 10AM PT on Thursday, October 20
+* Don't forget to finish [Writeup #2](https://github.com/nanrahman/capstone-responsible-ai/blob/93605e16204b5402b81c6b51f1ca33f496d8ea87/notes/week-02/Writeup%20%232.pdf), now due at 10AM PT on Wednesday, October 19
 * Replication Pre-Work (Part #0): Using [QuickStart Guide](https://github.com/nanrahman/capstone-responsible-ai/blob/483282f030af9225528cee3935203bb612ca71da/notes/week-03/Quick-start.md), set up your notebook
   * Primary contact for replication project: Nandita Rahman (nanrahman@deloitte.com)
 * Fill out the [data science team persona survey](https://forms.gle/5Fv7XZDABVEzphQ88) by 10 AM PT, Thursday, October 20th
