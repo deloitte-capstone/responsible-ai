@@ -86,7 +86,7 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.github.io/syllab
 |1|09/30/22|[Introduction to Trustworthy AI]({{ "weeks/01-Introduction-to-Trustworthy-AI" | absolute_url }})|
 |2|10/07/22|[A Multi-Stakeholder Perspective on Ethical AI]({{ "weeks/02-Perspectives-on-Ethical-AI" | absolute_url }})|
 |3|10/14/22|[Replication Project Part 0: Introduction]({{ "weeks/03-Replication-Part-00" | absolute_url }})|
-|4|10/21/22|Replication Project Part 1: EDA, Running Data Science Teams|_Coming Soon_|
+|4|10/21/22|[Replication Project Part 1: EDA, Running Data Science Teams]({{ "weeks/04-Replication-Part-01" | absolute_url }})|
 |5|10/28/22|AI Regulations|_Coming Soon_|
 |6|11/04/22|Replication Project Part 2: Bias Assessment|_Coming Soon_|
 |7|_TBD_|Replication Project Part 3: Fairness Assessments and Improvements|_Coming Soon_|
