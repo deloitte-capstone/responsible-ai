@@ -26,11 +26,11 @@ _Submit to Gradescope by 10AM PT on Thursday, October 13th_
 * After going through the AIF360 demo, what are some missing any features that you think are important? What is still unclear?
 
 ## This Week's Slides
-* TBD
+* [Week-03-Slides](https://github.com/nanrahman/capstone-responsible-ai/blob/483282f030af9225528cee3935203bb612ca71da/notes/week-03/Week-3-slides.pdf)
 
 ## Assigned for Week 04
 Complete the following tasks:
-* Replication Pre-Work (Part #0): Using directions (will be given to groups), set up your notebook
+* Replication Pre-Work (Part #0): Using [QuickStart Guide](https://github.com/nanrahman/capstone-responsible-ai/blob/483282f030af9225528cee3935203bb612ca71da/notes/week-03/Quick-start.md), set up your notebook
   * Primary contact for replication project: Nandita Rahman (nanrahman@deloitte.com)
 * Fill out the data science team persona survey
 
