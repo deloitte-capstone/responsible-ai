@@ -40,9 +40,9 @@ As one of the largest professional services organizations in the United States, 
 * Deloitte: Will hold ad-hoc office hours (TBD) for assistance with replication project materials
 
 ### Course Communications
-Please send any questions to the Responsible AI Slack Channel (*Sign up Link TBA*): 
-* Slack Channel link: *coming soon*
-* For any issues with Slack, email Nandita Rahman (nanrahman@deloitte.com) or your David Danks (ddanks@ucsd.edu)
+Please send any questions to the Responsible AI Slack Channel: 
+* Slack Channel link: [Responsible AI Capstone](responsibleaicapstone.slack.com)
+* For any issues with Slack, email David Danks (ddanks@ucsd.edu)
 * For private or personal questions, you can reach out to David privately via email (ddanks@ucsd.edu)
 
 
