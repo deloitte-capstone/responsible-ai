@@ -1,6 +1,6 @@
 ---
 layout: week
-title: Week 01
+title: Week 05
 permalink: /weeks/05-AI-Regulations/
 doodle: /images/xkcd_standards.png
 ---
