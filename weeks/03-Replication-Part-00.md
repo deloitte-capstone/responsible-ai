@@ -8,7 +8,6 @@ doodle: /images/bongo.gif
 # Replication Project Part 0: Introduction
 
 ## Class Coverage
-This week's assignments will guide you through the following topics:
 * Lecture: Introduce the Q1 (replication) project objectives, the AI Fairness 360 model overview, and the medical expenditure tutorial
 * Workshop: Initiate logistics for the replication project: datasets, code repo, and setup. A brief overview of EDA.
 * Survey: What's your role in a data science team?
