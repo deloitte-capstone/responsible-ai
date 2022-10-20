@@ -8,7 +8,10 @@ doodle: /images/xkcd_disparate_treatment_impact.png
 # A Multi-Stakeholder Perspective on Ethical AI
 
 ## Class Coverage
-What are the main doctrines and frameworks of AI fairness? How does responsible AI affect different fields? How do ethical considerations affect different stakeholders? What are some limitations to ethical AI? 
+* What are the main doctrines and frameworks of AI fairness? 
+* How does responsible AI affect different fields? 
+* How do ethical considerations affect different stakeholders? 
+* What are some limitations to ethical AI? 
 
 ## Pre-Class Readings
 Please read the following:
