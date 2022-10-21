@@ -25,7 +25,12 @@ Please read the following:
 *Coming Soon*
 
 ## Assigned for Week 05
-*Coming Soon*
+* Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/05-AI-Regulations/) readings
+    * If you signed up to present on [**"Big Data's Disparate Impact" (Barocas and Selbst)**](https://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf) come prepared to present next week and submit your presentation on Gradescope by 10AM PT on Friday, October 28
+* Submit your answers to [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/05-AI-Regulations/) participation questions to Gradescope by 10AM PT on Thursday, October 27
+* Get started on your [Q1 Project Checkpoint](https://dsc-capstone.github.io/assignments/projects/q1/), due October 30th 
+* Q1 Replication Project Part 1 (*link coming soon*)
+  * Primary contact for replication project: Nandita Rahman (nanrahman@deloitte.com)
 
 ---
 [Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
