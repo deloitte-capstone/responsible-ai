@@ -36,8 +36,8 @@ As one of the largest professional services organizations in the United States, 
 
 # Course Resources
 ### Office Hours
-* Professor Danks will hold office hours Wednesdays 1-2PM in UC 302, Room 101 
-* Deloitte: Will hold ad-hoc office hours (TBD) for assistance with replication project materials
+* Professor Danks will hold office hours Wednesdays 1-2PM (PT) in UC 302, Room 101 
+* Replication Project: Nandita Rahman (Replication PoC) will hold office hours Mondays 10-11am (PT) for assistance with replication project materials, held [virtually](https://github.com/nanrahman/capstone-responsible-ai/blob/b48a0f37b19f266e5b32430ee4b85b92b215e826/notes/week-04/replication-office-hour-zoom-info.md)
 
 ### Course Communications
 Please send any questions to the Responsible AI Slack Channel: 
@@ -89,7 +89,7 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.github.io/syllab
 |4|10/21/22|[Replication Project Part 1: EDA, Running Data Science Teams]({{ "weeks/04-Replication-Part-01" | absolute_url }})|
 |5|10/28/22|[AI Regulations]({{ "weeks/05-AI-Regulations/" | absolute_url }})|
 |6|11/04/22|Replication Project Part 2: Bias Assessment|_Coming Soon_|
-|7|_TBD_|Replication Project Part 3: Fairness Assessments and Improvements|_Coming Soon_|
+|7|11/10/22|**Adjusted Session** held at 12:30 PT, Replication Project Part 3: Fairness Assessments and Improvements|_Coming Soon_|
 |8|11/18/22|Capstone Planning: Avoiding Techno-Solutionism|_Coming Soon_|
 |9|12/02/22|Replication Project Part 4: Presentations|_Coming Soon_|
 
