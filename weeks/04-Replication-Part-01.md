@@ -22,15 +22,16 @@ Please read the following:
 * Describe a time when you struggled to complete an assignment (career or academic). What was missing (resources, support, etc.)? How did you resolve it?
 
 ## This Week's Slides
-*Coming Soon*
+* [Replication Project Part 01: EDA](https://github.com/nanrahman/capstone-responsible-ai/blob/5bb3d9993504b76218d2e1654cae5e80b2830254/notes/week-04/replication-project-part-01-eda.ipynb)
 
 ## Assigned for Week 05
 * Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/05-AI-Regulations/) readings
     * If you signed up to present on [**"Big Data's Disparate Impact" (Barocas and Selbst)**](https://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf) come prepared to present next week and submit your presentation on Gradescope by 10AM PT on Friday, October 28th
 * Submit your answers to [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/05-AI-Regulations/) participation questions to Gradescope by 10AM PT on Thursday, October 27th
 * Get started on your [Q1 Project Checkpoint](https://dsc-capstone.github.io/assignments/projects/q1/), due October 30th 
-* Q1 Replication Project Part 1 (*link coming soon*)
+* [Replication Project Part 01: EDA](https://github.com/nanrahman/capstone-responsible-ai/blob/5bb3d9993504b76218d2e1654cae5e80b2830254/notes/week-04/replication-project-part-01-eda.ipynb)
   * Primary contact for replication project: Nandita Rahman (nanrahman@deloitte.com)
+  * Replication Office Hours: Mondays, 10-11am PT (1-2pm ET) | Zoom Info
 
 ---
 [Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
