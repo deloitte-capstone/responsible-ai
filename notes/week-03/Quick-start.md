@@ -78,7 +78,7 @@ With your `aif360` environment running, install the latest stable version from P
 To install with complete functionality,  run:
 
 ```bash
-pip install aif360[all]
+pip install 'aif360[all]'
 ```
 ### Step 3: Install Jupyter Lab
 
