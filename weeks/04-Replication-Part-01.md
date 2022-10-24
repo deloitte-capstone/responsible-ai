@@ -31,7 +31,7 @@ Please read the following:
 * Get started on your [Q1 Project Checkpoint](https://dsc-capstone.github.io/assignments/projects/q1/), due October 30th 
 * [Replication Project Part 01: EDA](https://github.com/nanrahman/capstone-responsible-ai/blob/5bb3d9993504b76218d2e1654cae5e80b2830254/notes/week-04/replication-project-part-01-eda.ipynb)
   * Primary contact for replication project: Nandita Rahman (nanrahman@deloitte.com)
-  * Replication Office Hours: Mondays, 10-11am PT (1-2pm ET) [Zoom Info](https://github.com/nanrahman/capstone-responsible-ai/blob/b48a0f37b19f266e5b32430ee4b85b92b215e826/notes/week-04/replication-office-hour-zoom-info.md)
+  * Replication Office Hours: Mondays, 1-2pm PT (4-5pm ET) [Zoom Info](https://github.com/nanrahman/capstone-responsible-ai/blob/b48a0f37b19f266e5b32430ee4b85b92b215e826/notes/week-04/replication-office-hour-zoom-info.md)
 
 ---
 [Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
