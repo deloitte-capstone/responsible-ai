@@ -1,4 +1,8 @@
  
+## Replication Project Office Hours
+### Nandita Rahman
+#### Weekly, every Monday from 1-2pm PT (4-5 ET)
+
 [Join Meeting](https://deloitte.zoom.us/j/95396895099?pwd=YjQ5TEU5YTVBZHBOVTl3ZUJGaWYxQT09)
 
 https://deloitte.zoom.us/j/95396895099?pwd=YjQ5TEU5YTVBZHBOVTl3ZUJGaWYxQT09
