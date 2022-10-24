@@ -37,7 +37,7 @@ As one of the largest professional services organizations in the United States, 
 # Course Resources
 ### Office Hours
 * Professor Danks will hold office hours Wednesdays 1-2PM (PT) in UC 302, Room 101 
-* Replication Project: Nandita Rahman (Replication PoC) will hold office hours Mondays 10-11am (PT) for assistance with replication project materials, held [virtually](https://github.com/nanrahman/capstone-responsible-ai/blob/b48a0f37b19f266e5b32430ee4b85b92b215e826/notes/week-04/replication-office-hour-zoom-info.md)
+* Replication Project: Nandita Rahman (Replication PoC) will hold office hours Mondays 1-2pm (PT) for assistance with replication project materials, held [virtually](https://github.com/nanrahman/capstone-responsible-ai/blob/b48a0f37b19f266e5b32430ee4b85b92b215e826/notes/week-04/replication-office-hour-zoom-info.md)
 
 ### Course Communications
 Please send any questions to the Responsible AI Slack Channel: 
