@@ -24,7 +24,7 @@ _Submit to Gradescope by 10AM PT on Thursday, October 27th_
 
 
 ## This Week's Slides
-*Coming Soon*
+* [Discussion Topic](https://github.com/nanrahman/capstone-responsible-ai/blob/d87ac49d9be9d1ceeed5e44e51c8709de8e442a8/notes/week-05/Week-5-discussion.pdf)
 
 ## Assigned for Week 06
 *Coming Soon*
