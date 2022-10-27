@@ -88,8 +88,8 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.github.io/syllab
 |3|10/14/22|[Replication Project Part 0: Introduction]({{ "weeks/03-Replication-Part-00" | absolute_url }})|
 |4|10/21/22|[Replication Project Part 1: EDA, Running Data Science Teams]({{ "weeks/04-Replication-Part-01" | absolute_url }})|
 |5|10/28/22|[AI Regulations]({{ "weeks/05-AI-Regulations/" | absolute_url }})|
-|6|11/04/22|Replication Project Part 2: Bias Assessment|_Coming Soon_|
-|7|11/10/22|**Adjusted Session** held at 12:30 PT, Replication Project Part 3: Fairness Assessments and Improvements|_Coming Soon_|
+|6|11/04/22|Replication Project Part 2: Fairness Assessments|_Coming Soon_|
+|7|:warning:**11/10/22 @ 12:30 PT**:warning:|Replication Project Part 3: Fairness Improvements|_Coming Soon_|
 |8|11/18/22|Capstone Planning: Avoiding Techno-Solutionism|_Coming Soon_|
 |9|12/02/22|Replication Project Part 4: Presentations|_Coming Soon_|
 
