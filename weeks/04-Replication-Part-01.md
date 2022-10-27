@@ -22,7 +22,7 @@ Please read the following:
 * Describe a time when you struggled to complete an assignment (career or academic). What was missing (resources, support, etc.)? How did you resolve it?
 
 ## This Week's Slides
-* [Replication Project Part 01: EDA](https://github.com/nanrahman/capstone-responsible-ai/blob/5bb3d9993504b76218d2e1654cae5e80b2830254/notes/week-04/replication-project-part-01-eda.ipynb)
+* [Week 04: Running Data Science Projects](https://github.com/nanrahman/capstone-responsible-ai/blob/6a34cdac4ce2645e60087eaddc1910e7d6a8de91/notes/week-04/Week-4-slides.pdf)
 
 ## Assigned for Week 05
 * Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/05-AI-Regulations/) readings
