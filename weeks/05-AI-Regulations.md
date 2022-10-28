@@ -27,8 +27,13 @@ _Submit to Gradescope by 10AM PT on Thursday, October 27th_
 * [Discussion Topic](https://github.com/nanrahman/capstone-responsible-ai/blob/d87ac49d9be9d1ceeed5e44e51c8709de8e442a8/notes/week-05/Week-5-discussion.pdf)
 
 ## Assigned for Week 06
-*Coming Soon*
-
+* Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/06-Fairness-Assessments/) readings
+    * If you signed up to present on [**Ethical Machine Learning in Health Care**](https://www.annualreviews.org/doi/full/10.1146/annurev-biodatasci-092820-114757) (Chen et al. 2021) come prepared to present next week and submit your presentation on Gradescope by 10AM PT on Friday, November 4th
+* Submit your answers to [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/06-Fairness-Assessments/) participation questions to Gradescope by 10AM PT on Thursday, November 3rd
+* Submit your [Q1 Project Checkpoint](https://dsc-capstone.github.io/assignments/projects/q1/) (i.e. your [Replication Project Part 01: EDA](https://github.com/nanrahman/capstone-responsible-ai/blob/5bb3d9993504b76218d2e1654cae5e80b2830254/notes/week-04/replication-project-part-01-eda.ipynb)) by October 30th 
+* Replication Project Part 02: Fairness Assessments (*coming soon*)
+  * Primary contact for replication project: Nandita Rahman (nanrahman@deloitte.com)
+  * Replication Office Hours: Mondays, 1-2pm PT (4-5pm ET) [Zoom Info](https://github.com/nanrahman/capstone-responsible-ai/blob/b48a0f37b19f266e5b32430ee4b85b92b215e826/notes/week-04/replication-office-hour-zoom-info.md)
 ---
 [Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
 ---
