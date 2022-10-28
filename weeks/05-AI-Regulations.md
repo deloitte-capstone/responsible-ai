@@ -34,6 +34,8 @@ _Submit to Gradescope by 10AM PT on Thursday, October 27th_
 * Replication Project Part 02: Fairness Assessments (*coming soon*)
   * Primary contact for replication project: Nandita Rahman (nanrahman@deloitte.com)
   * Replication Office Hours: Mondays, 1-2pm PT (4-5pm ET) [Zoom Info](https://github.com/nanrahman/capstone-responsible-ai/blob/b48a0f37b19f266e5b32430ee4b85b92b215e826/notes/week-04/replication-office-hour-zoom-info.md)
+
+
 ---
 [Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
 ---
