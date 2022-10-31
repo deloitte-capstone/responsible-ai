@@ -29,6 +29,10 @@ _Submit to Gradescope by 10AM PT on Thursday, November 3rd_
 ## Assigned for Week 07
 *Coming Soon*
 
+## Office Hours for Replication Project
+* Mondays from 1-2pm PT (4-5pm ET)
+* Nandita hosting virtually - [Zoom link](https://github.com/nanrahman/capstone-responsible-ai/blob/85fa88b88441f0dcd04e9fa84519ab0aa7090df2/notes/week-04/replication-office-hour-zoom-info.md)
+
 ---
 [Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
 ---
