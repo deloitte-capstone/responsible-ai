@@ -27,7 +27,7 @@ _Submit to Gradescope by 10AM PT on Thursday, November 3rd_
 *Coming Soon*
 
 ## Assigned for Week 07
-*Coming Soon*
+* Complete [Replication Part 02: Model Development and Fairness Assessment](https://github.com/nanrahman/capstone-responsible-ai/blob/fa968aec5d392ac1036cf795ca93e8d084e847ec/notes/week-06/replication-project-part-02-model-dev-fairness-eval.ipynb)
 
 ## Office Hours for Replication Project
 * Mondays from 1-2pm PT (4-5pm ET)
