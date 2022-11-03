@@ -2,7 +2,7 @@
 layout: week
 title: Replication Project Part 03: Bias Mitigation
 permalink: /weeks/07-Bias-Mitigation/
-doodle: /doodle.png
+doodle: /images/bias_in_labels.png
 ---
 
 # Replication Project Part 03: Bias Mitigation
