@@ -25,7 +25,8 @@ _Submit to Gradescope by 10AM PT on Thursday, November 17th_
 *Coming Soon*
 
 ## Assigned for Week 09
-* Complete your Q1 replication projects
+* Complete your Q1 replication projects and come prepared to present
+* Complete your Q2 capstone project proposals and come prepared to present
 
 ## Office Hours for Replication Project
 *Coming Soon*
