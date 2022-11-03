@@ -25,6 +25,7 @@ _Submit to Gradescope by 10AM PT on Thursday, October 27th_
 
 ## This Week's Slides
 * [Discussion Topic](https://github.com/nanrahman/capstone-responsible-ai/blob/d87ac49d9be9d1ceeed5e44e51c8709de8e442a8/notes/week-05/Week-5-discussion.pdf)
+* [Week 05: AI Regulations](https://github.com/nanrahman/capstone-responsible-ai/blob/ba865b845d50a0cb5876bbe77afe9fe32d012496/notes/week-05/Week-5-slides.pdf)
 
 ## Assigned for Week 06
 * Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/06-Fairness-Assessments/) readings
