@@ -19,7 +19,7 @@ Please read the following:
 
 ## Participation Questions 
 _Submit to Gradescope by 10AM PT on , Thursday November 10th_
-* In what situations do you think “fairness through awareness” are most appropriate? Are there any situations where “fairness through unawareness” is necessary instead?
+* In what situations do you think “fairness through awareness” is most appropriate? Are there any situations where “fairness through unawareness” is necessary instead?
 * Describe a situation in which a pre-, in-, or post-processing technique might be appropriate for mitigating model bias, and explain what technique you would use.
 
 ## This Week's Slides
