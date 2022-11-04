@@ -24,7 +24,7 @@ _Submit to Gradescope by 10AM PT on Thursday, November 3rd_
 * Can you think of any types of fairness other than individual and group? How would you measure them?
 
 ## This Week's Slides
-*Coming Soon*
+* [Week 06 Slides](https://github.com/nanrahman/capstone-responsible-ai/blob/669855ff9660ab81b0872e60298fdee1dae98fb1/notes/week-06/week_6_slides.pdf)
 
 ## Assigned for Week 07
 * Complete [Replication Part 02: Model Development and Fairness Assessment](https://github.com/nanrahman/capstone-responsible-ai/blob/fa968aec5d392ac1036cf795ca93e8d084e847ec/notes/week-06/replication-project-part-02-model-dev-fairness-eval.ipynb)
