@@ -23,10 +23,10 @@ _Submit to Gradescope by 10AM PT on , Thursday November 10th_
 * Describe a situation in which a pre-, in-, or post-processing technique might be appropriate for mitigating model bias, and explain what technique you would use.
 
 ## This Week's Slides
-*Coming Soon*
+* [Week 07 Slides](https://github.com/nanrahman/capstone-responsible-ai/blob/b26120feeec97a97265c39506d02f64ea276535a/notes/week-07/week-7-draft.pdf)
 
 ## Assigned for Week 08
-*Coming Soon*
+* Replication Notebook Part 03 and Instructions _coming soon_
 
 ## Office Hours for Replication Project
 * Mondays from 1-2pm PT (4-5pm ET)
