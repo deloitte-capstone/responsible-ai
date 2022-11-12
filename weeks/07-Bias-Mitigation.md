@@ -26,7 +26,8 @@ _Submit to Gradescope by 10AM PT on , Thursday November 10th_
 * [Week 07 Slides](https://github.com/nanrahman/capstone-responsible-ai/blob/b26120feeec97a97265c39506d02f64ea276535a/notes/week-07/week-7-draft.pdf)
 
 ## Assigned for Week 08
-* Replication Notebook Part 03 and Instructions _coming soon_
+* [Replication Project Part 03a]()
+* Replication Project Part 03b - *Will be updated by 11/12/2022*
 
 ## Office Hours for Replication Project
 * Mondays from 1-2pm PT (4-5pm ET)
