@@ -26,7 +26,7 @@ _Submit to Gradescope by 10AM PT on , Thursday November 10th_
 * [Week 07 Slides](https://github.com/nanrahman/capstone-responsible-ai/blob/b26120feeec97a97265c39506d02f64ea276535a/notes/week-07/week-7-draft.pdf)
 
 ## Assigned for Week 08
-* [Replication Project Part 03a](https://github.com/nanrahman/capstone-responsible-ai/blob/f7529e0c2abca5241a99250f873423b36bcc7660/notes/week-07/replication-project-part-03a-bias-mitigation.ipynb)
+* [Replication Project Part 03a](https://github.com/nanrahman/capstone-responsible-ai/blob/5b23cb640e8b9382045675a6fcdb3f2e7cb56c3e/notes/week-07/replication-project-part-03a-bias-mitigation.ipynb)
 * Replication Project Part 03b - Write up Instructions | *Will be updated on 11/12/2022*
 
 ## Office Hours for Replication Project
