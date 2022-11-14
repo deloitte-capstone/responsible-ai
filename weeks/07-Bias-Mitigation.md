@@ -31,8 +31,9 @@ _Submit to Gradescope by 10AM PT on , Thursday November 10th_
 * Refer to Week 08 material on course website for Readings and Discussion Questions
 
 ## Office Hours for Replication Project
-* Mondays from 1-2pm PT (4-5pm ET)
+* Mondays from 1-1:30pm PT (4-430pm ET)
 * Nandita hosting virtually ([Zoom link](https://github.com/nanrahman/capstone-responsible-ai/blob/85fa88b88441f0dcd04e9fa84519ab0aa7090df2/notes/week-04/replication-office-hour-zoom-info.md))
+* Reach out on Slack for any questions!
 
 ---
 [Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
