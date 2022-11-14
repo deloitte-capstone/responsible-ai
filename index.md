@@ -89,7 +89,7 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.github.io/syllab
 |4|10/21/22|[Replication Project Part 1: EDA, Running Data Science Teams]({{ "weeks/04-Replication-Part-01" | absolute_url }})|
 |5|10/28/22|[AI Regulations]({{ "weeks/05-AI-Regulations/" | absolute_url }})|
 |6|11/04/22|[Replication Project Part 2: Fairness Assessments]({{ "weeks/06-Fairness-Assessments" | absolute_url }})|
-|7|11/10/22|[Replication Project Part 03: Bias Mitigation]({{ "weeks/07-Bias-Mitigation" | absolute_url }})|
+|7|11/10/22|[Replication Project Part 3: Bias Mitigation]({{ "weeks/07-Bias-Mitigation" | absolute_url }})|
 |8|11/18/22|[Capstone Planning & Avoiding Techno-Solutionism]({{ "weeks/08-Capstone-Planning-Techno-Solutionism" | absolute_url }})|
 |9|12/02/22|Replication Project Part 4: Presentations|_Coming Soon_|
 
