@@ -91,7 +91,7 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.github.io/syllab
 |6|11/04/22|[Replication Project Part 2: Fairness Assessments]({{ "weeks/06-Fairness-Assessments" | absolute_url }})|
 |7|11/10/22|[Replication Project Part 3: Bias Mitigation]({{ "weeks/07-Bias-Mitigation" | absolute_url }})|
 |8|11/18/22|[Capstone Planning & Avoiding Techno-Solutionism]({{ "weeks/08-Capstone-Planning-Techno-Solutionism" | absolute_url }})|
-|9|12/02/22|Replication Project Part 4: Presentations|_Coming Soon_|
+|9|12/02/22|[Replication Project Part 4: Presentations]({{ "weeks/09-Q1-Replication-Presentations/" | absolute_url }})|
 
 ---
 
