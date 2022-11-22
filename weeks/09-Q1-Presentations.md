@@ -5,7 +5,7 @@ permalink: /weeks/09-Q1-Replication-Presentations/
 doodle: /doodle.png
 ---
 
-# Capstone Project: Q1 Presentations and Q2 Proposals
+# Capstone Project: Q1 Presentations
 
 ## Class Coverage
 * Students present their Q1 project reports
