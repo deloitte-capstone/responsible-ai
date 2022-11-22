@@ -23,12 +23,14 @@ _Submit to Gradescope by 10AM PT on , Thursday November 10th_
 * Describe a situation in which a pre-, in-, or post-processing technique might be appropriate for mitigating model bias, and explain what technique you would use.
 
 ## This Week's Slides
-* [Week 07 Slides](https://github.com/nanrahman/capstone-responsible-ai/blob/b26120feeec97a97265c39506d02f64ea276535a/notes/week-07/week-7-draft.pdf)
+* [Week 07: Replication Project Part 3, Bias Mitigation](https://github.com/nanrahman/capstone-responsible-ai/blob/b26120feeec97a97265c39506d02f64ea276535a/notes/week-07/week-7-draft.pdf)
 
 ## Assigned for Week 08
 * Complete [Replication Project Part 03a](https://github.com/nanrahman/capstone-responsible-ai/blob/548c9a4c1afdf46930bf5dc813c6a605f8d336c1/notes/week-07/replication-project-part-03a-bias-mitigation.ipynb)
 * Complete [Replication Project Part 03b - Write up Instructions](https://github.com/nanrahman/capstone-responsible-ai/blob/548c9a4c1afdf46930bf5dc813c6a605f8d336c1/notes/week-07/replication-project-part-03b-bias-mitigation.ipynb)
-* Refer to Week 08 "Capstone Planning & Avoiding Techno-Solutionism" material on course website for Readings and Discussion Questions
+* Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/08-Capstone-Planning-Techno-Solutionism/) readings
+    * If you signed up to present on [**Algorithmic Fairness and Vertical Equity**](https://arxiv.org/abs/2206.09875) (Black et al.) come prepared to present next week and submit your presentation on Gradescope by 10AM PT on Friday, November 18th
+* Submit your answers to [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/08-Capstone-Planning-Techno-Solutionism/) participation questions to Gradescope by 10AM PT on Thursday, November 17th
 
 ## Office Hours for Replication Project
 * Mondays from 1-1:30pm PT (4-430pm ET)
