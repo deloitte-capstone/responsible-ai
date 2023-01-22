@@ -5,10 +5,33 @@ doodle: "/doodle.png"
 permalink: /
 ---
 
+# DSC180-B05, Data science capstone: Responsible AI 
+---
+## Quarter 02 Updated: 1/21/2023
+#### _Updated Q2 Page - under construction_
+| Q2 Spring 2022 | [Classes held on **Zoom**](https://ucsd.zoom.us/j/96921239764) | Fridays at 10AM PT |
+
+### Schedule 
+|Week|Date|Topic|Presenters|Project Milestone|
+|--|--|--|--|--|
+|1|01/06/23|--|--|--|
+|2|01/13/23|Introduction to Course|David|Student Recap of Project|
+|3|01/20/23|AI Explainability, Project Management|Nandita R., Emma H.|Status Update|
+|4|01/27/23|Present Project Tracker|Students|Week 3 TA Check-In (sign up by Jan. 20)|
+|5|02/03/23|Project Update|Students|--|
+|6|02/17/23|Mini Check-in, Mini Lecture|Students, Deloitte Team|Report checkpoint and code checkpoint (due Feb. 12)|
+|7|02/24/23|Full Project Check-in|Students|Poster checkpoint (due Feb. 19)|
+|8|03/03/23|Mini Check-in, Causal Lecture|Students, David|(1) Website checkpoint (due Feb. 26)|
+|||||(2) Oral presentation checkpoint (sign up by Feb. 24, complete by Mar. 3))|
+|9|03/10/23|Full Project Check-in|Students|**Poster (due Mar. 9)**|
+|10|03/17/23|TBD|TBD|(1) Report, code, and website (due. Mar. 14)|
+|||||(2) In-person showcase on Mar. 15|
+
+
+
+---
 # DSC180-A05, Data science capstone: Responsible AI 
-
 | Q1 Fall 2022 | [Classes held on **Zoom**](https://ucsd.zoom.us/j/96921239764) | Fridays at 10AM PT |
-
 
 ### Developed by David Danks, Jeffry Liu, Nandita Rahman, Aritra Nath, Emma Harvey, Meira Gilbert, and Rasmus Nielsen.
 
@@ -81,6 +104,7 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.github.io/syllab
 
 # Schedule
 
+## Quarter 01
 |Week|Date|Topic|
 |--|--|--|
 |1|09/30/22|[Introduction to Trustworthy AI]({{ "weeks/01-Introduction-to-Trustworthy-AI" | absolute_url }})|
@@ -92,6 +116,8 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.github.io/syllab
 |7|11/10/22|[Replication Project Part 3: Bias Mitigation]({{ "weeks/07-Bias-Mitigation" | absolute_url }})|
 |8|11/18/22|[Capstone Planning & Avoiding Techno-Solutionism]({{ "weeks/08-Capstone-Planning-Techno-Solutionism" | absolute_url }})|
 |9|12/02/22|[Replication Project Part 4: Presentations]({{ "weeks/09-Q1-Replication-Presentations/" | absolute_url }})|
+
+
 
 ---
 
