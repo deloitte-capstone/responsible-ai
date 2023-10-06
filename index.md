@@ -48,7 +48,7 @@ As one of the largest professional services organizations in the United States, 
 
 # Course Resources
 ### Office Hours
-* Deloitte will hold office hours Wednesdays 1-2PM (PT) in UC 302, Room 101 
+* Deloitte will hold office hours: coming soon!
 * Replication Project: Meira Gilbert, Parker Addison, Nandita Rahman, and Max Levitt (Replication PoC) will hold office hours TBD (PT) for assistance with replication project materials
 
 ### Course Communications
