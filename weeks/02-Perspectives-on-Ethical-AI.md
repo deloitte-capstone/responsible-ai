@@ -21,7 +21,7 @@ Please read the following:
 
 
 ## Participation Questions
-*
+* Brief for Write-up #2 coming soon!
 
 ## This Week's Slides
 * Coming soon!
