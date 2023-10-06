@@ -97,8 +97,8 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.org/syllabus/) f
 |Week|Date|Topic|
 |--|--|--|
 |2|10/07/23|[Introduction to Trustworthy AI]({{ "weeks/01-Introduction-to-Trustworthy-AI" | absolute_url }})|
-|3|10/14/23|[A Multi-Stakeholder Perspective on Ethical AI]({{ "weeks/02-Perspectives-on-Ethical-AI" | absolute_url }})|
-|4|10/21/23|[Replication Project Part 0: Introduction]({{ "weeks/03-Replication-Part-00" | absolute_url }})|
+|3|10/14/23|[A Multi-Stakeholder Perspective on Ethical AI]||
+|4|10/21/23|[Replication Project Part 0: Introduction]||
 |5|10/28/23|Content Coming Soon!||
 |6|11/04/23|Content Coming Soon!||
 |7|Asynchronous|Veterans Day||
