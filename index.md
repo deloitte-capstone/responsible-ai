@@ -77,7 +77,7 @@ Students are responsible for completing the readings in full prior to the start 
 and discuss the results of these tasks. 
 
 ### Weekly Participation Questions: Writing Prompt (5%)
-* Participation Questions will be in the form of a writing prompt. Writing prompts can found under each week (see: [Schedule](https://github.com/nanrahman/capstone-responsible-ai/edit/master/index.md#schedule)). Students are responsible for responding in at least 500 words (one single-spaced page). Responses should be submitted on [Gradescope](https://www.gradescope.com/courses/637426) and are due *24 hours before class* (Thursday prior, 11am PT)
+* Participation Questions will be in the form of a writing prompt. Writing prompts can found under each week (see: [schedule](#schedule). Students are responsible for responding in at least 500 words (one single-spaced page). Responses should be submitted on [Gradescope](https://www.gradescope.com/courses/637426) and are due *24 hours before class* (Thursday prior, 11am PT)
   
 ### Overall Class Participation: In-class Brief (5%)
 Each student is responsible for preparing one five-minute in-class brief on one of the academic papers assigned as readings. 
