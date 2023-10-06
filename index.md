@@ -7,7 +7,7 @@ permalink: /
 
 # DSC180-A10, Data science capstone: Responsible AI 
 
-| Q1 Fall 2023 | [Classes held on **Zoom**]([https://ucsd.zoom.us/j/96921239764](https://deloitte.zoom.us/j/92320243928?pwd=bVNUQ1VHckhOWUVPZW9QNE96eWhnQT09&from=addon)) | Fridays at 11AM PT |
+| Q1 Fall 2023 | [Classes held on **Zoom**](https://deloitte.zoom.us/j/92320243928?pwd=bVNUQ1VHckhOWUVPZW9QNE96eWhnQT09&from=addon) | Fridays at 11AM PT |
 
 
 ### Previously Developed by Nandita Rahman, Meira Gilbert, Aritra Nath, Emma Harvey, Jeffry Liu, David Danks and Rasmus Nielse
@@ -81,7 +81,7 @@ and discuss the results of these tasks.
   
 ### Overall Class Participation: In-class Brief (5%)
 Each student is responsible for preparing one five-minute in-class brief on one of the academic papers assigned as readings. 
-* Following the first session, students will have the opportunity to [sign up](https://docs.google.com/spreadsheets/d/1fV-lTguKJR9Wv0oAl722f175s_hOdhUyKQ9DXg6OwXA/edit?usp=sharing) to present on one of the course readings. Students are responsible for creating a PowerPoint presentation summarizing the reading, including its background, methodology, argument/key contributions, and their thoughts on the implications/impact of the article. 
+* Following the first session, students will have the opportunity to [sign up](https://docs.google.com/spreadsheets/d/1fV-lTguKJR9Wv0oAl722f175s_hOdhUyKQ9DXg6OwXA/edit#gid=0) to present on one of the course readings. Students are responsible for creating a PowerPoint presentation summarizing the reading, including its background, methodology, argument/key contributions, and their thoughts on the implications/impact of the article. 
 * Reading presentations are due via Gradescope prior to the start of the session for which the reading is assigned; students are also responsible for presenting to the rest of the class during the session. Presentations should take five minutes. 
 
 
@@ -95,7 +95,7 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.org/syllabus/) f
 |Week|Date|Topic|
 |--|--|--|
 |2|10/07/23|[Introduction to Trustworthy AI]({{ "weeks/01-Introduction-to-Trustworthy-AI" | absolute_url }})|
-|3|10/14/23|[A Multi-Stakeholder Perspective on Ethical AI]|  |
+|3|10/14/23|[A Multi-Stakeholder Perspective on Ethical AI]({{ "weeks/02-Perspectives-on-Ethical-AI" | absolute_url }})|
 |4|10/21/23|[Replication Project Part 0: Introduction]|  |
 |5|10/28/23|Content Coming Soon!|  |
 |6|11/04/23|Content Coming Soon!|  |
