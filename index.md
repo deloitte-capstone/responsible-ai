@@ -99,7 +99,7 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.org/syllabus/) f
 |4|10/21/23|[Replication Project Part 0: Introduction]|  |
 |5|10/28/23|Content Coming Soon!|  |
 |6|11/04/23|Content Coming Soon!|  |
-|7|Asynchronous|Veterans Day|  |
+|7|TBD |Veterans Day|  |
 |8|11/18/23|Content Coming Soon!|  |
 |9|Asynchronous|Thanksgiving Holiday|  |
 |10|12/01/22|Content Coming Soon!|  |
