@@ -29,7 +29,7 @@ areas:**
 * What are the risks of ‘black box’ algorithms, and how do we mitigate them? How is AI explainability related to fairness?
 * How do inherent fairness problems in AI models affect human beings?  
 
-### Instructor: Dr. David Danks
+### Instructor: Dr. Rasmus Nielsen
 About: Deloitte Senior Manager/Specialist Leader leading Deloitte's Trustworthy AI product and service offering on applying ethical principles in the development, validation and use of Artificial Intelligence. Background within economics, financial services, banking and capital market as an industry practitioner as well as professional advisor, and is currently advising several U.S. Government agencies on AI and ethical AI.
 
 Mentoring Style: The capstone program is based in active participation from all students. The mentors will provide overall guidance, and a high level of student independence is required. 
@@ -61,7 +61,7 @@ Please send any questions to the Responsible AI Slack Channel:
 
 # Course Expectations and Assignments
 
-### Quarter One Project (70%)
+### Quarter One Project (65%)
 * Introduce students to the area in which they will do their project through replicating a known result.
 * Students will complete coding tasks related to the replication project and are also responsible for creating a final writeup
 * Create written material and code that serves as a foundation for work in quarter-2’s projects.
@@ -76,16 +76,14 @@ Students are responsible for completing the readings in full prior to the start 
 [schedule](#schedule). Come to section prepared to ask questions about
 and discuss the results of these tasks. 
 
-### In-class Participation Questions (5%)
-* Prior to class, Students must post responses to participation questions for that week's assigned reading (see: [Schedule](https://github.com/nanrahman/capstone-responsible-ai/edit/master/index.md#schedule)). Responses should be submitted on [Gradescope](https://www.gradescope.com/courses/637426) **24 hours prior to the start of each class session**
-
-### In-class Brief (5%)
+### Weekly Participation Questions: Writing Prompt (5%)
+* Participation Questions will be in the form of a writing prompt. Writing prompts can found under each week (see: [Schedule](https://github.com/nanrahman/capstone-responsible-ai/edit/master/index.md#schedule)). Students are responsible for responding in at least 500 words (one single-spaced page). Responses should be submitted on [Gradescope](https://www.gradescope.com/courses/637426) and are due *24 hours before class* (Thursday prior, 11am PT)
+  
+### Overall Class Participation: In-class Brief (5%)
 Each student is responsible for preparing one five-minute in-class brief on one of the academic papers assigned as readings. 
 * Following the first session, students will have the opportunity to [sign up](https://docs.google.com/spreadsheets/d/1fV-lTguKJR9Wv0oAl722f175s_hOdhUyKQ9DXg6OwXA/edit?usp=sharing) to present on one of the course readings. Students are responsible for creating a PowerPoint presentation summarizing the reading, including its background, methodology, argument/key contributions, and their thoughts on the implications/impact of the article. 
 * Reading presentations are due via Gradescope prior to the start of the session for which the reading is assigned; students are also responsible for presenting to the rest of the class during the session. Presentations should take five minutes. 
 
-### Written Assignments (5%)
-* For each writeup prompt (see: [Schedule](https://github.com/nanrahman/capstone-responsible-ai/edit/master/index.md#schedule)), students are responsible for responding in at least 500 words (one single-spaced page). Writeups are due via Gradescope before the start of the session in which they are due. 
 
 ### Grading
 Please see the [Capstone Program Syllabus](https://dsc-capstone.org/syllabus/) for a detailed description of the assignment weights and rubric. 
@@ -97,14 +95,14 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.org/syllabus/) f
 |Week|Date|Topic|
 |--|--|--|
 |2|10/07/23|[Introduction to Trustworthy AI]({{ "weeks/01-Introduction-to-Trustworthy-AI" | absolute_url }})|
-|3|10/14/23|[A Multi-Stakeholder Perspective on Ethical AI]||
-|4|10/21/23|[Replication Project Part 0: Introduction]||
-|5|10/28/23|Content Coming Soon!||
-|6|11/04/23|Content Coming Soon!||
-|7|Asynchronous|Veterans Day||
-|8|11/18/23|Content Coming Soon!||
-|9|Asynchronous|Thanksgiving Holiday||
-|10|12/01/22|Content Coming Soon!||
-|11|12/08/22|Last Week of Class||
+|3|10/14/23|[A Multi-Stakeholder Perspective on Ethical AI]|  |
+|4|10/21/23|[Replication Project Part 0: Introduction]|  |
+|5|10/28/23|Content Coming Soon!|  |
+|6|11/04/23|Content Coming Soon!|  |
+|7|Asynchronous|Veterans Day|  |
+|8|11/18/23|Content Coming Soon!|  |
+|9|Asynchronous|Thanksgiving Holiday|  |
+|10|12/01/22|Content Coming Soon!|  |
+|11|12/08/22|Last Week of Class|  |
 
 ---
