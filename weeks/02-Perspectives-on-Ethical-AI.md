@@ -17,7 +17,7 @@ doodle: /images/xkcd_disparate_treatment_impact.png
 Please read the following:
 * [Inherent Trade-Offs in the Fair Determination of Risk Scores](https://arxiv.org/abs/1609.05807) (Kleinberg et al.)
 * [Who Audits the Auditors?](https://www.ajl.org/auditors) (Costanza-Chock et al.)
-* [2023 AI Now Report](https://ainowinstitute.org/AI_Now_2019_Report.pdf) (read pg. 34-42)
+* [2023 AI Now Report](https://ainowinstitute.org/wp-content/uploads/2023/04/AI-Now-2023-Landscape-Report-FINAL.pdf) (read pg. 34-42)
 
 
 ## Participation Questions
