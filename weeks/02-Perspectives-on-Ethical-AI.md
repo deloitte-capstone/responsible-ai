@@ -21,11 +21,11 @@ Please read the following:
 
 
 ## Participation Questions
-* Brief for Write-up #2 coming soon!
+* Write up #2 will be uploaded after class!
 
 ## This Week's Slides
-* Coming soon!
-
+* [Week 02 - Multi-stakeholder Perspectives on Ethical AI](https://github.com/nanrahman/capstone-responsible-ai/blob/0271f41329ac48a9d023a7e8e60911014d370067/notes/week-02/Week%202%20A%20Multi-Stakeholder%20Perspective%20on%20Ethical%20AI.pdf)
+* 
 ---
 
 ## Assigned for Week 03
