@@ -21,7 +21,8 @@ Please read the following:
 
 
 ## Participation Questions
-* Write up #2 will be uploaded after class!
+* [Write up #2](https://github.com/nanrahman/capstone-responsible-ai/blob/1f6d46ec6e46fb2b5113b1e6ed78ef5bd71956dd/notes/week-02/Writeup%20%232.pdf)
+* Submit your response to Writeup #2 to Gradescope by 10AM PT on Thursday, October 19
 
 ## This Week's Slides
 * [Week 02 - Multi-stakeholder Perspectives on Ethical AI](https://github.com/nanrahman/capstone-responsible-ai/blob/0271f41329ac48a9d023a7e8e60911014d370067/notes/week-02/Week%202%20A%20Multi-Stakeholder%20Perspective%20on%20Ethical%20AI.pdf)
