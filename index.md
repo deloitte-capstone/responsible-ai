@@ -10,7 +10,7 @@ permalink: /
 | Q1 Fall 2023 | [Classes held on **Zoom**](https://deloitte.zoom.us/j/92320243928?pwd=bVNUQ1VHckhOWUVPZW9QNE96eWhnQT09&from=addon) | Fridays at 11AM PT |
 
 
-### Previously Developed by Nandita Rahman, Meira Gilbert, Aritra Nath, Emma Harvey, Jeffry Liu, David Danks and Rasmus Nielse
+### Previously Developed by Nandita Rahman, Meira Gilbert, Aritra Nath, Emma Harvey, Jeffry Liu, David Danks and Rasmus Nielsen
 ### Additional instructors for 2023: Emily Ramond (Course Point of contact), Max Levitt, Parker Addison, and Shweta Kumar
 
 ---
@@ -94,13 +94,13 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.org/syllabus/) f
 
 |Week|Date|Topic|
 |--|--|--|
-|2|10/07/23|[Introduction to Trustworthy AI]({{ "weeks/01-Introduction-to-Trustworthy-AI" | absolute_url }})|
-|3|10/14/23|[A Multi-Stakeholder Perspective on Ethical AI]({{ "weeks/02-Perspectives-on-Ethical-AI" | absolute_url }})|
-|4|10/21/23|[Replication Project Part 0: Introduction]|  |
-|5|10/28/23|Content Coming Soon!|  |
-|6|11/04/23|Content Coming Soon!|  |
+|2|10/06/23|[Introduction to Trustworthy AI]({{ "weeks/01-Introduction-to-Trustworthy-AI" | absolute_url }})|
+|3|10/13/23|[A Multi-Stakeholder Perspective on Ethical AI]({{ "weeks/02-Perspectives-on-Ethical-AI" | absolute_url }})|
+|4|10/20/23|[Replication Project Part 0: Introduction]|  |
+|5|10/27/23|Content Coming Soon!|  |
+|6|11/03/23|Content Coming Soon!|  |
 |7|TBD |Veterans Day|  |
-|8|11/18/23|Content Coming Soon!|  |
+|8|11/17/23|Content Coming Soon!|  |
 |9|Asynchronous|Thanksgiving Holiday|  |
 |10|12/01/22|Content Coming Soon!|  |
 |11|12/08/22|Last Week of Class|  |
