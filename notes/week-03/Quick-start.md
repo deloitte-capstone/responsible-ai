@@ -10,7 +10,7 @@ The AI Fairness 360 package includes
 2) explanations for these metrics, and
 3) algorithms to mitigate bias in datasets and models.
 It is designed to translate algorithmic research from the lab into the actual practice of domains as wide-ranging
-as finance, human capital management, healthcare, and education. We invite you to use it and improve it.
+as finance, human capital management, healthcare, and education. AIF360 invites you to use it and improve it.
 
 The [AI Fairness 360 interactive experience](https://aif360.res.ibm.com/data)
 provides a gentle introduction to the concepts and capabilities. The [tutorials
@@ -19,53 +19,16 @@ introduction. The complete API is also available.
 
 Being a comprehensive set of capabilities, it may be confusing to figure out
 which metrics and algorithms are most appropriate for a given use case. To
-help, we have created some [guidance
+help, AIF360 has created some [guidance
 material](https://aif360.res.ibm.com/resources#guidance) that can be
 consulted.
 
-We have developed the package with extensibility in mind. This library is still
-in development. We encourage the contribution of your metrics, explainers, and
+AIF360 has developed the package with extensibility in mind. This library is still
+in development. AIF360 encourages the contribution of your metrics, explainers, and
 debiasing algorithms.
 
-Get in touch with us on [Slack](https://aif360.slack.com) (invitation
-[here](https://join.slack.com/t/aif360/shared_invite/zt-5hfvuafo-X0~g6tgJQ~7tIAT~S294TQ))!
-
-
-## Supported bias mitigation algorithms
-
-* Optimized Preprocessing ([Calmon et al., 2017](http://papers.nips.cc/paper/6988-optimized-pre-processing-for-discrimination-prevention))
-* Disparate Impact Remover ([Feldman et al., 2015](https://doi.org/10.1145/2783258.2783311))
-* Equalized Odds Postprocessing ([Hardt et al., 2016](https://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning))
-* Reweighing ([Kamiran and Calders, 2012](http://doi.org/10.1007/s10115-011-0463-8))
-* Reject Option Classification ([Kamiran et al., 2012](https://doi.org/10.1109/ICDM.2012.45))
-* Prejudice Remover Regularizer ([Kamishima et al., 2012](https://rd.springer.com/chapter/10.1007/978-3-642-33486-3_3))
-* Calibrated Equalized Odds Postprocessing ([Pleiss et al., 2017](https://papers.nips.cc/paper/7151-on-fairness-and-calibration))
-* Learning Fair Representations ([Zemel et al., 2013](http://proceedings.mlr.press/v28/zemel13.html))
-* Adversarial Debiasing ([Zhang et al., 2018](https://arxiv.org/abs/1801.07593))
-* Meta-Algorithm for Fair Classification ([Celis et al., 2018](https://arxiv.org/abs/1806.06055))
-* Rich Subgroup Fairness ([Kearns, Neel, Roth, Wu, 2018](https://arxiv.org/abs/1711.05144))
-* Exponentiated Gradient Reduction ([Agarwal et al., 2018](https://arxiv.org/abs/1803.02453))
-* Grid Search Reduction ([Agarwal et al., 2018](https://arxiv.org/abs/1803.02453), [Agarwal et al., 2019](https://arxiv.org/abs/1905.12843))
-* Fair Data Adaptation ([Plečko and Meinshausen, 2020](https://www.jmlr.org/papers/v21/19-966.html), [Plečko et al., 2021](https://arxiv.org/abs/2110.10200))
-* Sensitive Set Invariance/Sensitive Subspace Robustness ([Yurochkin and Sun, 2020](https://arxiv.org/abs/2006.14168), [Yurochkin et al., 2019](https://arxiv.org/abs/1907.00020))
-
-## Supported fairness metrics
-
-* Comprehensive set of group fairness metrics derived from selection rates and error rates including rich subgroup fairness
-* Comprehensive set of sample distortion metrics
-* Generalized Entropy Index ([Speicher et al., 2018](https://doi.org/10.1145/3219819.3220046))
-* Differential Fairness and Bias Amplification ([Foulds et al., 2018](https://arxiv.org/pdf/1807.08362))
-* Bias Scan with Multi-Dimensional Subset Scan ([Zhang, Neill, 2017](https://arxiv.org/abs/1611.08292))
 
 ## Setup
-
-### R
-
-``` r
-install.packages("aif360")
-```
-
-For more details regarding the R setup, please refer to instructions [here](https://github.com/Trusted-AI/AIF360/tree/master/aif360/aif360-r/README.md).
 
 ### Python
 
@@ -210,7 +173,9 @@ pip install 'aif360[OptimPreproc]'
 CVXPY is only required for use with the
 `aif360.algorithms.preprocessing.OptimPreproc` class.
 
-## Using AIF360
+## Additional Info
+
+### Using AIF360
 
 The `examples` directory contains a diverse collection of jupyter notebooks
 that use AI Fairness 360 in various ways. Both tutorials and demos illustrate
@@ -218,7 +183,7 @@ working code using AIF360. Tutorials provide additional discussion that walks
 the user through the various steps of the notebook. See the details about
 [tutorials and demos here](https://github.com/Trusted-AI/AIF360/tree/master/examples)
 
-## Citing AIF360
+### Citing AIF360
 
 A technical description of AI Fairness 360 is available in this
 [paper](https://arxiv.org/abs/1810.01943). Below is the bibtex entry for this
@@ -239,10 +204,39 @@ paper.
 }
 ```
 
-## AIF360 Videos
+### AIF360 Videos
 
 * Introductory [video](https://www.youtube.com/watch?v=X1NsrcaRQTE) to AI
   Fairness 360 by Kush Varshney, September 20, 2018 (32 mins)
 
-## Contributing
-The development fork for Rich Subgroup Fairness (`inprocessing/gerryfair_classifier.py`) is [here](https://github.com/sethneel/aif360). Contributions are welcome and a list of potential contributions from the authors can be found [here](https://trello.com/b/0OwPcbVr/gerryfair-development).
+### Supported bias mitigation algorithms and fairness metrics
+
+<details><summary>View all</summary>
+
+#### Supported bias mitigation algorithms
+
+* Optimized Preprocessing ([Calmon et al., 2017](http://papers.nips.cc/paper/6988-optimized-pre-processing-for-discrimination-prevention))
+* Disparate Impact Remover ([Feldman et al., 2015](https://doi.org/10.1145/2783258.2783311))
+* Equalized Odds Postprocessing ([Hardt et al., 2016](https://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning))
+* Reweighing ([Kamiran and Calders, 2012](http://doi.org/10.1007/s10115-011-0463-8))
+* Reject Option Classification ([Kamiran et al., 2012](https://doi.org/10.1109/ICDM.2012.45))
+* Prejudice Remover Regularizer ([Kamishima et al., 2012](https://rd.springer.com/chapter/10.1007/978-3-642-33486-3_3))
+* Calibrated Equalized Odds Postprocessing ([Pleiss et al., 2017](https://papers.nips.cc/paper/7151-on-fairness-and-calibration))
+* Learning Fair Representations ([Zemel et al., 2013](http://proceedings.mlr.press/v28/zemel13.html))
+* Adversarial Debiasing ([Zhang et al., 2018](https://arxiv.org/abs/1801.07593))
+* Meta-Algorithm for Fair Classification ([Celis et al., 2018](https://arxiv.org/abs/1806.06055))
+* Rich Subgroup Fairness ([Kearns, Neel, Roth, Wu, 2018](https://arxiv.org/abs/1711.05144))
+* Exponentiated Gradient Reduction ([Agarwal et al., 2018](https://arxiv.org/abs/1803.02453))
+* Grid Search Reduction ([Agarwal et al., 2018](https://arxiv.org/abs/1803.02453), [Agarwal et al., 2019](https://arxiv.org/abs/1905.12843))
+* Fair Data Adaptation ([Plečko and Meinshausen, 2020](https://www.jmlr.org/papers/v21/19-966.html), [Plečko et al., 2021](https://arxiv.org/abs/2110.10200))
+* Sensitive Set Invariance/Sensitive Subspace Robustness ([Yurochkin and Sun, 2020](https://arxiv.org/abs/2006.14168), [Yurochkin et al., 2019](https://arxiv.org/abs/1907.00020))
+
+#### Supported fairness metrics
+
+* Comprehensive set of group fairness metrics derived from selection rates and error rates including rich subgroup fairness
+* Comprehensive set of sample distortion metrics
+* Generalized Entropy Index ([Speicher et al., 2018](https://doi.org/10.1145/3219819.3220046))
+* Differential Fairness and Bias Amplification ([Foulds et al., 2018](https://arxiv.org/pdf/1807.08362))
+* Bias Scan with Multi-Dimensional Subset Scan ([Zhang, Neill, 2017](https://arxiv.org/abs/1611.08292))
+
+</details>
