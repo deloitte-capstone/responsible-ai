@@ -1,9 +1,6 @@
 # AI Fairness 360 (AIF360)
 
-[![Continuous Integration](https://github.com/Trusted-AI/AIF360/actions/workflows/ci.yml/badge.svg)](https://github.com/Trusted-AI/AIF360/actions/workflows/ci.yml)
-[![Documentation](https://readthedocs.org/projects/aif360/badge/?version=latest)](http://aif360.readthedocs.io/en/latest/?badge=latest)
-[![PyPI version](https://badge.fury.io/py/aif360.svg)](https://badge.fury.io/py/aif360)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/aif360)](https://cran.r-project.org/package=aif360)
+> See the original repository here: https://github.com/Trusted-AI/AIF360
 
 The AI Fairness 360 toolkit is an extensible open-source library containing techniques developed by the
 research community to help detect and mitigate bias in machine learning models throughout the AI application lifecycle. AI Fairness 360 package is available in both Python and R.
@@ -17,7 +14,7 @@ as finance, human capital management, healthcare, and education. We invite you t
 
 The [AI Fairness 360 interactive experience](https://aif360.res.ibm.com/data)
 provides a gentle introduction to the concepts and capabilities. The [tutorials
-and other notebooks](./examples) offer a deeper, data scientist-oriented
+and other notebooks](https://github.com/Trusted-AI/AIF360/tree/master/examples) offer a deeper, data scientist-oriented
 introduction. The complete API is also available.
 
 Being a comprehensive set of capabilities, it may be confusing to figure out
@@ -68,7 +65,7 @@ Get in touch with us on [Slack](https://aif360.slack.com) (invitation
 install.packages("aif360")
 ```
 
-For more details regarding the R setup, please refer to instructions [here](aif360/aif360-r/README.md).
+For more details regarding the R setup, please refer to instructions [here](https://github.com/Trusted-AI/AIF360/tree/master/aif360/aif360-r/README.md).
 
 ### Python
 
@@ -148,7 +145,7 @@ git clone https://github.com/Trusted-AI/AIF360
 
 If you'd like to run the examples, download the datasets now and place them in
 their respective folders as described in
-[aif360/data/README.md](aif360/data/README.md).
+[aif360/data/README.md](https://github.com/Trusted-AI/AIF360/tree/master/aif360/data/README.md).
 
 Then, navigate to the root directory of the project and run:
 
@@ -167,7 +164,7 @@ pip install -e '.[notebooks]'
 ```
 
 Finally, if you did not already, download the datasets as described in
-[aif360/data/README.md](aif360/data/README.md).
+[aif360/data/README.md](https://github.com/Trusted-AI/AIF360/tree/master/aif360/data/README.md).
 
 ### Troubleshooting
 
@@ -219,7 +216,7 @@ The `examples` directory contains a diverse collection of jupyter notebooks
 that use AI Fairness 360 in various ways. Both tutorials and demos illustrate
 working code using AIF360. Tutorials provide additional discussion that walks
 the user through the various steps of the notebook. See the details about
-[tutorials and demos here](examples/README.md)
+[tutorials and demos here](https://github.com/Trusted-AI/AIF360/tree/master/examples)
 
 ## Citing AIF360
 
