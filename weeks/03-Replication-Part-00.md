@@ -20,7 +20,7 @@ Please read the following:
 
 
 ## This Week's Slides
-* [Week 03: Replication Project Part 0](https://github.com/nanrahman/capstone-responsible-ai/blob/483282f030af9225528cee3935203bb612ca71da/notes/week-03/Week-3-slides.pdf)
+* [Week 03: Replication Project Part 0](https://github.com/nanrahman/capstone-responsible-ai/blob/283e80b048513c5585c9a2a7490ab1c9a19111ca/notes/week-03/Week-3-slides.pdf)
 
 ## Assigned for Week 04
 * Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/04-Replication-Part-01/) readings
