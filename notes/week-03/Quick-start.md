@@ -28,9 +28,7 @@ in development. AIF360 encourages the contribution of your metrics, explainers, 
 debiasing algorithms.
 
 
-## Setup
-
-### Python
+## Setup (Python)
 
 Supported Python Configurations:
 
@@ -40,14 +38,13 @@ Supported Python Configurations:
 | Ubuntu  | 3.8 – 3.11     |
 | Windows | 3.8 – 3.11     |
 
-### (Optional) Create a virtual environment
+### Step 1. Create a Virtual Environment
 
 AIF360 requires specific versions of many Python packages which may conflict
 with other projects on your system. A virtual environment manager is strongly
-recommended to ensure dependencies may be installed safely. If you have trouble
-installing AIF360, try this first.
+recommended to ensure dependencies may be installed safely.
 
-#### Conda
+#### 1a. Install Conda
 
 Conda is recommended for all configurations though Virtualenv is generally
 interchangeable for our purposes. [Miniconda](https://conda.io/miniconda.html)
@@ -55,133 +52,81 @@ is sufficient (see [the difference between Anaconda and
 Miniconda](https://conda.io/docs/user-guide/install/download.html#anaconda-or-miniconda)
 if you are curious) if you do not already have conda installed.
 
-Then, to create a new Python 3.11 environment, run:
+#### 1b. Create a new Python 3.11 virtual environment
+
+To create a new Python 3.11 environment, run:
 
 ```bash
 conda create --name aif360 python=3.11
 conda activate aif360
 ```
 
-The shell should now look like `(aif360) $`. To deactivate the environment, run:
+The shell prompt should now begin with `(aif360) $`. To deactivate the environment, run:
 
 ```bash
-(aif360)$ conda deactivate
+(aif360) $ conda deactivate
 ```
 
-The prompt will return to `$ `.
+The prompt will return to normal.
 
-### Install with `pip`
+### Step 2. Install the AI Fairness 360 Package
 
-To install the latest stable version from PyPI, run:
-
+#### 2a. Activate our `aif360` conda environment
+First ensure you have activated the conda environment we created above:
 ```bash
-pip install aif360
+conda activate aif360
 ```
 
-Note: Some algorithms require additional dependencies (although the metrics will
-all work out-of-the-box). To install with certain algorithm dependencies
-included, run, e.g.:
-
+#### 2b. Install the base AIF360 package
+Use conda with the conda-forge channel to install AIF360:
 ```bash
-pip install 'aif360[LFR,OptimPreproc]'
+conda install -y -c conda-forge aif360
 ```
 
-or, for complete functionality, run:
+### Step 3. Install All Other Packages
 
+Now we want to install some additional dependencies that we'll use for exploration and specific algorithms. Such as Jupyter Lab to launch notebooks and the LIME package (Local Interpretable Model-agnostic Explanations) that we'll use to analyze our Medical Expenditure data later one.
+
+#### 3a. Install dependencies
+```bash
+conda install -y -c conda-forge r-base cmake cvxpy
+```
+
+#### 3b. Install all optional AIF360 extras
 ```bash
 pip install 'aif360[all]'
 ```
 
-The options for available extras are: `OptimPreproc, LFR, AdversarialDebiasing,
-DisparateImpactRemover, LIME, ART, Reductions, FairAdapt, inFairness,
-LawSchoolGPA, notebooks, tests, docs, all`
+> ![NOTE]\
+> The requirements we need to conduct this replication are listed below. If you face issues during installation above, you can individually install these requirements -- if they all install successfully then you should be good to go!
+> ```bash
+> conda install -c conda-forge jupyterlab
+> pip install xgboost
+> pip install wrapt
+> pip install fairlearn
+> pip install BlackBoxAuditing
+> pip install lime
+> conda install -c conda-forge imbalanced-learn
+> pip install statsmodels
+> pip install shap
+> ```
 
-If you encounter any errors, try the [Troubleshooting](#troubleshooting) steps.
+### Step 4. Test Our Installation and Start Using AIF360
+The [`examples/` directory in the AIF360 repository](https://github.com/Trusted-AI/AIF360/tree/master/examples) contains a diverse collection of jupyter notebooks that use AI Fairness 360 in various ways. Both tutorials and demos illustrate working code using AIF360. Tutorials provide additional discussion that walks the user through the various steps of the notebook.
 
-### Manual installation
+#### 4a. Fork the AIF360 Repository into your own GitHub Repo
+- Fork the [AIF360 Repository](https://github.com/Trusted-AI/AIF360) into your own respective Repo
+- Clone your forked repository to a local location where you can launch Jupyter Lab
 
-Clone the latest version of this repository:
-
-```bash
-git clone https://github.com/Trusted-AI/AIF360
-```
-
-If you'd like to run the examples, download the datasets now and place them in
-their respective folders as described in
-[aif360/data/README.md](https://github.com/Trusted-AI/AIF360/tree/master/aif360/data/README.md).
-
-Then, navigate to the root directory of the project and run:
-
-```bash
-pip install --editable '.[all]'
-```
-
-#### Run the Examples
-
-To run the example notebooks, complete the manual installation steps above.
-Then, if you did not use the `[all]` option, install the additional requirements
-as follows:
-
-```bash
-pip install -e '.[notebooks]'
-```
-
-Finally, if you did not already, download the datasets as described in
-[aif360/data/README.md](https://github.com/Trusted-AI/AIF360/tree/master/aif360/data/README.md).
-
-### Troubleshooting
-
-If you encounter any errors during the installation process, look for your
-issue here and try the solutions.
-
-#### TensorFlow
-
-See the [Install TensorFlow with pip](https://www.tensorflow.org/install/pip)
-page for detailed instructions.
-
-Note: we require `'tensorflow >= 1.13.1'`.
-
-Once tensorflow is installed, try re-running:
-
-```bash
-pip install 'aif360[AdversarialDebiasing]'
-```
-
-TensorFlow is only required for use with the
-`aif360.algorithms.inprocessing.AdversarialDebiasing` class.
-
-#### CVXPY
-
-On MacOS, you may first have to install the Xcode Command Line Tools if you
-never have previously:
-
-```sh
-xcode-select --install
-```
-
-On Windows, you may need to download the [Microsoft C++ Build Tools for Visual
-Studio 2019](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16).
-See the [CVXPY Install](https://www.cvxpy.org/install/index.html#mac-os-x-windows-and-linux)
-page for up-to-date instructions.
-
-Then, try reinstalling via:
-
-```bash
-pip install 'aif360[OptimPreproc]'
-```
-
-CVXPY is only required for use with the
-`aif360.algorithms.preprocessing.OptimPreproc` class.
+#### 4b. Launch an example notebook
+- With a shell open in the location where you cloned the repo, first activate the `aif360` conda environment then launch Jupyter Lab by running the following command:
+  ```bash
+  jupyter lab
+  ```
+- Open the `Bias Advertising` Jupyter [notebook](https://github.com/nanrahman/AIF360/blob/master/examples/tutorial_bias_advertising.ipynb)
+- Follow instructions for downloading necessary data and run through the notebook
 
 ## Additional Info
-
-### Using AIF360
-
-The `examples` directory contains a diverse collection of jupyter notebooks
-that use AI Fairness 360 in various ways. Both tutorials and demos illustrate
-working code using AIF360. Tutorials provide additional discussion that walks
-the user through the various steps of the notebook. See the details about
-[tutorials and demos here](https://github.com/Trusted-AI/AIF360/tree/master/examples)
 
 ### Citing AIF360
 
