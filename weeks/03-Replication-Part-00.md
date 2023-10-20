@@ -16,7 +16,7 @@ doodle: /images/bongo.gif
 Please read the following:
 * [AI fairness 360: an extensible toolkit for detecting, understanding, and mitigating unwanted algorithmic bias](https://arxiv.org/pdf/1810.01943.pdf) (Bellamy et al.)
 * [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) (Gebru et al.)
-* [AI Fairness 360 Demo](https://aif360.mybluemix.net/data)
+* [AI Fairness 360 Demo](https://aif360.res.ibm.com/)
 
 
 ## This Week's Slides
