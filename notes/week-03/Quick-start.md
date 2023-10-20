@@ -97,7 +97,7 @@ conda install -y -c conda-forge r-base cmake cvxpy
 pip install 'aif360[all]'
 ```
 
-> ![NOTE]\
+> **Note**\
 > The requirements we need to conduct this replication are listed below. If you face issues during installation above, you can individually install these requirements -- if they all install successfully then you should be good to go!
 > ```bash
 > conda install -c conda-forge jupyterlab
