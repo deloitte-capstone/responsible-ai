@@ -5,7 +5,7 @@ permalink: /weeks/04-Replication-Part-01/
 doodle: /images/xkcd_flawed_data.png
 ---
 
-# Replication Project Part 1: EDA, Running Data Science Teams
+# Running Data Science Teams
 
 ## Class Coverage
 * Lecture: How do we run a data science project? What skills are necessary on AI teams? How can/do data scientists work effectively with other roles? 
