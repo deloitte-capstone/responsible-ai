@@ -17,7 +17,7 @@ Please read the following:
 * [Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?](https://arxiv.org/pdf/1812.05239.pdf) (Holstein et al.)
 
 ## Participation Questions
-* [Review Replication Part 01: EDA] (https://github.com/nanrahman/capstone-responsible-ai/blob/5895cbde6cacdac1bf816a8e716c34047142b95e/notes/week-04/replication-project-part-01-eda.ipynb) and complete "Section 1," which contains discussion questions at the end.
+* [Review Replication Part 01](https://github.com/nanrahman/capstone-responsible-ai/blob/898e233482c9f5a374ba65d2bdacb5cc45ecd0c3/notes/week-04/replication-project-part-01-eda.ipynb) and complete "Section 1," which contains discussion questions at the end.
 * Submit Jupyter Notebook with discussion questions answered, to Gradescope by Thursday November 2nd, 2023 by 11:00am PT
   
 ## This Week's Slides
