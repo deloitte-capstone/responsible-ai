@@ -14,7 +14,7 @@ doodle: /images/xkcd_standards.png
 
 ## Pre-Class Readings
 Please read the following:
-* [Big Data’s Disparate Impact](https://www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf) (Barocas and Selbst)
+* [Big Data’s Disparate Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477899) (Barocas and Selbst)
 * [Why New York City is cracking down on AI in hiring](https://www.brookings.edu/blog/techtank/2021/12/20/why-new-york-city-is-cracking-down-on-ai-in-hiring/) (Brookings)
 
 
