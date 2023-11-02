@@ -19,8 +19,7 @@ Please read the following:
 
 
 ## Participation Questions 
-* Coming soon!
-* test
+* Research regulatory considerations that apply to medical expenditure modeling. How do they map (or not) to assessments you would conduct to identify and/or mitigate the harms that you identified in Writeup #1?
 
 ## This Week's Slides
 * Coming soon!
