@@ -23,7 +23,7 @@ Please read the following:
 * test
 
 ## This Week's Slides
-* Coming soon!
+* Coming soon
 
 ## Assigned for Week 06
 * Coming soon!
