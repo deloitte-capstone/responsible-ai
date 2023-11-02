@@ -20,6 +20,7 @@ Please read the following:
 
 ## Participation Questions 
 * Coming soon!
+* test
 
 ## This Week's Slides
 * Coming soon!
