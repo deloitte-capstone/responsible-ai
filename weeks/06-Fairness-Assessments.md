@@ -11,6 +11,7 @@ doodle: /images/fairness_metrics.png
 * How can we assess algorithmic fairness? 
 * What metrics are commonly used to measure fairness? 
 * What can’t be captured in data?
+* Class this week is on TUESDAY NOVEMBER 7TH!!
 
 ## Pre-Class Readings
 Please read the following:
@@ -18,7 +19,7 @@ Please read the following:
 * [Millions of black people affected by racial bias in health-care algorithms](https://www.nature.com/articles/d41586-019-03228-6) (Nature)
 
 ## Participation Questions 
-_Submit to Gradescope by 10AM PT on Thursday, November 3rd_
+_Submit to Gradescope by 11AM PT on Thursday, November 9th_
 * “Individual fairness” refers to the practice of treating similar individuals similarly. What fairness metrics can you use to measure individual fairness?
 * “Group fairness” refers to the process of equalizing some output metric(s) (positive predictions, error rates, etc.) across demographic subgroups. What fairness metrics can you use to measure group fairness?
 * Can you think of any types of fairness other than individual and group? How would you measure them?
@@ -31,11 +32,10 @@ _Submit to Gradescope by 10AM PT on Thursday, November 3rd_
 * Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/07-Bias-Mitigation/) readings
     * If you signed up to present on [**Model Cards for Model Reporting**](https://arxiv.org/abs/1810.03993) (Mitchell et al.) or [**Fairness Through Awareness**](https://arxiv.org/abs/1104.3913) (Dwork et al.) come prepared to present next week and submit your presentation on Gradescope by **10AM PT on Thursday, November 10th (note the different time!)**
 * Submit your answers to [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/07-Bias-Mitigation/) participation questions to Gradescope by 10AM PT on Thursday, November 10th
-* Remember that Week 7's class is **rescheduled to 12:30PM PT on Thursday, November 10th**!
 
 ## Office Hours for Replication Project
-* Mondays from 1-2pm PT (4-5pm ET)
-* Nandita hosting virtually - [Zoom link](https://github.com/nanrahman/capstone-responsible-ai/blob/85fa88b88441f0dcd04e9fa84519ab0aa7090df2/notes/week-04/replication-office-hour-zoom-info.md)
+* Tuesday 3:30-4:30pm
+* Message Parker on Discord for help. START EARLY!!
 
 ---
 [Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
