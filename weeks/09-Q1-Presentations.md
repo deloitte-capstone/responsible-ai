@@ -15,5 +15,5 @@ _Submit to Gradescope by 10AM PT on Thursday, December 1st_
 * Revisit your answer to this Participation Question from Week 1: “What characteristics, in your opinion, does an AI system need to have in order to be ‘ethical’?” Has your answer changed? What characteristics do you think are necessary now?
 
 ---
-[Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
+[Go back to Home](https://deloitte-capstone.github.io/responsible-ai/)
 ---

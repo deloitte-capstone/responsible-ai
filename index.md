@@ -9,9 +9,12 @@ permalink: /
 
 | Q1 Fall 2023 | [Classes held on **Zoom**](https://deloitte.zoom.us/j/92320243928?pwd=bVNUQ1VHckhOWUVPZW9QNE96eWhnQT09&from=addon) | Fridays at 11AM PT |
 
+**Instructor for 2023:** Emily Ramond (Course Point of contact)
+<br>
+**Additional Instructors**: Parker Addison, Max Levitt, and Shweta Kumar
 
-### Previously Developed by Nandita Rahman, Meira Gilbert, Aritra Nath, Emma Harvey, Jeffry Liu, David Danks and Rasmus Nielsen
-### Additional instructors for 2023: Emily Ramond (Course Point of contact), Max Levitt, Parker Addison, and Shweta Kumar
+*Previously Developed by Nandita Rahman, Meira Gilbert, Aritra Nath, Emma Harvey, Jeffry Liu, David Danks and Rasmus Nielsen*
+
 
 ---
 * TOC
@@ -48,15 +51,14 @@ As one of the largest professional services organizations in the United States, 
 
 # Course Resources
 ### Office Hours
-* Deloitte will hold office hours: coming soon!
-* Replication Project: Meira Gilbert, Parker Addison, Nandita Rahman, and Max Levitt (Replication PoC) will hold office hours TBD (PT) for assistance with replication project materials
+* Deloitte will hold office hours: Tuesdays, 3:30 – 4:30pm PT
 
 ### Course Communications
-Please send any questions to the Responsible AI Slack Channel: 
-* Discord/Slack Channel link: Coming Soon!
+Please send any questions to the Responsible AI Discord server: 
+* Discord server: 5RFCXBfK3f
 * Primary Course Contact, email Emily Ramond (eramond@deloitte.com)
-* Replication Project contact, email Max Levitt (mlevitt@deloitte.com
-* For private or personal questions, you can reach out to Rasmus Nielsen privately via email (rasnielsen@deloitte.com)
+* Replication Project contact, email Parker Addison (paddison@deloitte.com)
+* For private or personal questions, you can reach out to Emily privately via email or Discord
 
 
 # Course Expectations and Assignments
@@ -99,7 +101,7 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.org/syllabus/) f
 |4|10/20/23|[Replication Project Part 0: Introduction]({{ "weeks/03-Replication-Part-00" | absolute_url }})|
 |5|10/27/23|[Replication Project Part 1: EDA, Running Data Science Teams]({{ "weeks/04-Replication-Part-01" | absolute_url }})|
 |6|11/03/23|[AI Regulations]({{ "weeks/05-AI-Regulations/" | absolute_url }})|
-|7|TBD |Veterans Day|  |
+|7|11/07/23 |[Fairness Metrics]({{ "weeks/06-Fairness-Assessments/" | absolute_url }}) / Veterans Day|  |
 |8|11/17/23|Content Coming Soon!|  |
 |9|Asynchronous|Thanksgiving Holiday|  |
 |10|12/01/22|Content Coming Soon!|  |
