@@ -21,7 +21,7 @@ Please read the following:
 * Submit Jupyter Notebook with discussion questions answered, to Gradescope by Thursday November 2nd, 2023 by 11:00am PT
   
 ## This Week's Slides
-* [Week 04: Running Data Science Projects](https://github.com/deloitte-capstone/responsible-ai/blob/0a2d3261e0a22867f81221bf7b0986d78d7b2a52/notes/week-04/Week-4-slides.pdf)
+* [Week 04: Running Data Science Projects](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-04/Week-4-slides.pdf)
   
 ## Assigned for Week 05
 * Complete [next week’s](https://deloitte-capstone.github.io/responsible-ai/weeks/05-AI-Regulations/) readings

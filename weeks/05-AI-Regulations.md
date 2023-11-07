@@ -22,7 +22,7 @@ Please read the following:
 * Activity participation for Replication Project.
 
 ## This Week's Slides
-* [Week 05: AI Regulations](https://github.com/deloitte-capstone/responsible-ai/blob/0a2d3261e0a22867f81221bf7b0986d78d7b2a52/notes/week-05/Week-5-slides.pdf)
+* [Week 05: AI Regulations](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-05/Week-5-slides.pdf)
 
 ## Assigned for Week 06
 * Complete [next week’s](https://deloitte-capstone.github.io/responsible-ai/weeks/06-Fairness-Assessments/) readings

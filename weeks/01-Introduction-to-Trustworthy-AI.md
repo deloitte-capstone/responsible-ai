@@ -27,7 +27,7 @@ _No Gradescope submission - come prepared to discuss in class_
 ## Assigned for Week 02
 * Sign up for an [in-class brief](https://docs.google.com/spreadsheets/d/1DNA4mQLQmbhFEtm74PEPsUDTEGx0pK_BFzlQcltFaMg/edit?usp=sharing) by 10AM on Monday, October 9
 * If you sign up for an in-class brief for next week, be prepared to present. Check this course's homepage or week 01 slides for more information on presenting. 
-* Submit your response to [Writeup #1](https://github.com/deloitte-capstone/responsible-ai/blob/d0cd3cde3e64d03c9c46982f92548a9c9f48b20a/notes/week-01/Writeup_1.pdf) to Gradescope by 10AM PT on Thursday, October 13 by 11am PT
+* Submit your response to [Writeup #1](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-01/Writeup_1.pdf) to Gradescope by 10AM PT on Thursday, October 13 by 11am PT
 
 ---
 [Go back to Home](https://deloitte-capstone.github.io/responsible-ai/)
