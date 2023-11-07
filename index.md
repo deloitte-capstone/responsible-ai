@@ -96,12 +96,12 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.org/syllabus/) f
 
 |Week|Date|Topic|
 |--|--|--|
-|2|10/06/23|[Introduction to Trustworthy AI]({{ "weeks/01-Introduction-to-Trustworthy-AI" | absolute_url }})|
-|3|10/13/23|[A Multi-Stakeholder Perspective on Ethical AI]({{ "weeks/02-Perspectives-on-Ethical-AI" | absolute_url }})|
-|4|10/20/23|[Replication Project Part 0: Introduction]({{ "weeks/03-Replication-Part-00" | absolute_url }})|
-|5|10/27/23|[Replication Project Part 1: EDA, Running Data Science Teams]({{ "weeks/04-Replication-Part-01" | absolute_url }})|
-|6|11/03/23|[AI Regulations]({{ "weeks/05-AI-Regulations/" | absolute_url }})|
-|7|11/07/23 |[Fairness Metrics]({{ "weeks/06-Fairness-Assessments/" | absolute_url }}) / Veterans Day|  |
+|2|10/06/23|[Introduction to Trustworthy AI](weeks/01-Introduction-to-Trustworthy-AI)|
+|3|10/13/23|[A Multi-Stakeholder Perspective on Ethical AI](weeks/02-Perspectives-on-Ethical-AI)|
+|4|10/20/23|[Replication Project Part 0: Introduction](weeks/03-Replication-Part-00)|
+|5|10/27/23|[Replication Project Part 1: EDA, Running Data Science Teams](weeks/04-Replication-Part-01)|
+|6|11/03/23|[AI Regulations](weeks/05-AI-Regulations/)|
+|7|11/07/23 |[Fairness Metrics](weeks/06-Fairness-Assessments/) / Veterans Day|  |
 |8|11/17/23|Content Coming Soon!|  |
 |9|Asynchronous|Thanksgiving Holiday|  |
 |10|12/01/22|Content Coming Soon!|  |

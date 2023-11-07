@@ -2,5 +2,5 @@ safe: true
 title: "Capstone Domain: Responsible AI"
 source: .
 destination: _site
-url: "https://nanrahman.github.io"
+url: "https://deloitte-capstone.github.io"
 baseurl: "/responsible-ai"
