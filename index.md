@@ -102,8 +102,8 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.org/syllabus/) f
 |5|10/27/23|[Replication Project Part 1: EDA, Running Data Science Teams](weeks/04-Replication-Part-01)|
 |6|11/03/23|[AI Regulations](weeks/05-AI-Regulations/)|
 |7|11/07/23 |[Fairness Metrics](weeks/06-Fairness-Assessments/) / Veterans Day|  |
-|8|11/17/23|Content Coming Soon!|  |
-|9|Asynchronous|Thanksgiving Holiday|  |
+|8|11/17/23|[Bias Mitigation](weeks/07-Bias-Mitigation/)|  |
+|9|No class|Thanksgiving Holiday - OH on discord|  |
 |10|12/01/22|Content Coming Soon!|  |
 |11|12/08/22|Last Week of Class|  |
 
