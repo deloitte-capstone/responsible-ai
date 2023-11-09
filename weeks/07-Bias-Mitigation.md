@@ -18,7 +18,8 @@ Please read the following:
 * [Demo: Explaining model behavior using LIME](https://nbviewer.org/github/Trusted-AI/AIF360/blob/master/examples/demo_lime.ipynb)
 
 ## Participation Questions 
-_Submit to Gradescope by 10AM PT on , Thursday November 10th_
+_Submit to Gradescope by 11AM PT on , Thursday November 16th_
+* SUBMIT DEFAULT ACTIVITY PARTICIPATION QUESTIONS
 * In what situations do you think “fairness through awareness” is most appropriate? Are there any situations where “fairness through unawareness” is necessary instead?
 * Describe a situation in which a pre-, in-, or post-processing technique might be appropriate for mitigating model bias, and explain what technique you would use.
 
@@ -33,9 +34,8 @@ _Submit to Gradescope by 10AM PT on , Thursday November 10th_
 * Submit your answers to [next week’s](https://deloitte-capstone.github.io/responsible-ai/weeks/08-Capstone-Planning-Techno-Solutionism/) participation questions to Gradescope by 10AM PT on Thursday, November 17th
 
 ## Office Hours for Replication Project
-* Mondays from 1-1:30pm PT (4-430pm ET)
-* Nandita hosting virtually ([Zoom link](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-04/replication-office-hour-zoom-info.md))
-* Reach out on Slack for any questions!
+* Tuesdays from 3:30-4:30pm PT
+* Reach out on Discord for questions. @ Parker Addison or Emily Ramond.
 
 ---
 [Go back to Home](https://deloitte-capstone.github.io/responsible-ai/)
