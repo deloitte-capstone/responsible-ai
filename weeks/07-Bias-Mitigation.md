@@ -24,7 +24,7 @@ _Submit to Gradescope by 11AM PT on , Thursday November 16th_
 * Describe a situation in which a pre-, in-, or post-processing technique might be appropriate for mitigating model bias, and explain what technique you would use.
 
 ## This Week's Slides
-* [Week 07: Replication Project Part 3, Bias Mitigation](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-07/week-7-draft.pdf)
+* [Week 07: Replication Project Part 3, Bias Mitigation](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-07/week-7-slides.pdf)
 
 ## Assigned for Week 08
 * Complete [Replication Project Part 03a](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-07/replication-project-part-03a-bias-mitigation.ipynb)
