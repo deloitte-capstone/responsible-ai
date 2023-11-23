@@ -11,7 +11,7 @@ permalink: /
 
 **Instructor for 2023:** Emily Ramond (Course Point of contact)
 <br>
-**Additional Instructors**: Parker Addison, Max Levitt, and Shweta Kumar
+**Additional Instructors**: Parker Addison, Meira Gilbert and George Thein
 
 *Previously Developed by Nandita Rahman, Meira Gilbert, Aritra Nath, Emma Harvey, Jeffry Liu, David Danks and Rasmus Nielsen*
 
