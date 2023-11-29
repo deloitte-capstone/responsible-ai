@@ -22,7 +22,7 @@ _Submit to Gradescope by 10AM PT on Thursday, November 17th_
 * Describe a situation (not unemployment fraud detection) in which the same algorithm could have different impacts based on how it is deployed. Describe the criteria that you think would lead to best- and worst-case outcomes.
 
 ## This Week's Slides
-* [Week 08: Avoiding Technosolutionism](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-08/Week%208%20-%20Q2%20Plan%20and%20Avoiding%20Technosolutionism.pdf)
+* [Week 08: Avoiding Technosolutionism](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-08/week-8-slides.pdf)
 
 ## Assigned for Week 09
 * Complete your [Q1 replication projects](https://dsc-capstone.org/assignments/projects/q1/) and come prepared to present
