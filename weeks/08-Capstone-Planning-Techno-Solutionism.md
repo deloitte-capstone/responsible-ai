@@ -25,12 +25,12 @@ _Submit to Gradescope by 10AM PT on Thursday, November 17th_
 * [Week 08: Avoiding Technosolutionism](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-08/Week%208%20-%20Q2%20Plan%20and%20Avoiding%20Technosolutionism.pdf)
 
 ## Assigned for Week 09
-* Complete your [Q1 replication projects](https://dsc-capstone.github.io/assignments/projects/q1/) and come prepared to present
-* Complete your [Q2 capstone project proposals](https://dsc-capstone.github.io/assignments/projects/q2-proposal/)
-* Submit your answers to [next week’s](https://deloitte-capstone.github.io/responsible-ai/weeks/09-Q1-Replication-Presentations/) participation question to Gradescope by 10AM PT on Thursday, December 1st
+* Complete your [Q1 replication projects](https://dsc-capstone.org/assignments/projects/q1/) and come prepared to present
+* Complete your [Q2 capstone project proposals](https://dsc-capstone.org/assignments/projects/q2-proposal/)
+* Submit your answers to [next week’s](https://deloitte-capstone.github.io/responsible-ai/weeks/09-Q1-Replication-Presentations/) participation question to Gradescope by 11AM PT on Thursday, December 7th
 
 ## Office Hours for Replication Project
-*Coming Soon*
+* Tuesdays 3:30pm-4:30pm on Zoom
 
 ---
 [Go back to Home](https://deloitte-capstone.github.io/responsible-ai/)
