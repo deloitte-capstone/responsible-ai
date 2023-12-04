@@ -105,6 +105,6 @@ Please see the [Capstone Program Syllabus](https://dsc-capstone.org/syllabus/) f
 |8|11/17/23|[Bias Mitigation](weeks/07-Bias-Mitigation/)|  |
 |9|No class|Thanksgiving Holiday - OH on discord|  |
 |10|12/01/22|[Capstone Planning and Techno-Solutionism](weeks/08-Capstone-Planning-Techno-Solutionism/)|  |
-|11|12/08/22|[Last Week of Class - Q1 Presentations](weeks/09-Q1-Presentations/|  |
+|11|12/08/22|[Last Week of Class - Q1 Presentations](weeks/09-Q1-Presentations/)|  |
 
 ---
