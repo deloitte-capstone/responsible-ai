@@ -8,7 +8,7 @@ permalink: /
 # DSC180-A10, Data science capstone: Responsible AI 
 
 | Q1 Fall 2023 | [Classes held on **Zoom**](https://deloitte.zoom.us/j/92320243928?pwd=bVNUQ1VHckhOWUVPZW9QNE96eWhnQT09&from=addon) | Fridays at 11AM PT |
-| Q2 Spring 2024 | [Check-ins held on **Zoom**](https://deloitte.zoom.us/j/93571444311?pwd=ZjF5OTVZSGV2Sk9xUVJMRjdOOVZRdz09&from=addon) | Tuesdays at 2:30PM and 3PM PT |
+| Q2 Spring 2024 | [Check-ins held on **Zoom**](https://deloitte.zoom.us/j/93571444311?pwd=ZjF5OTVZSGV2Sk9xUVJMRjdOOVZRdz09&from=addon) | Tuesdays at 1:30-2:30PM PT |
 
 **Instructor for 2023-24:** Emily Ramond (Course Point of contact)
 <br>
