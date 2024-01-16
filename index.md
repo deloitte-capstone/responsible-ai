@@ -8,10 +8,11 @@ permalink: /
 # DSC180-A10, Data science capstone: Responsible AI 
 
 | Q1 Fall 2023 | [Classes held on **Zoom**](https://deloitte.zoom.us/j/92320243928?pwd=bVNUQ1VHckhOWUVPZW9QNE96eWhnQT09&from=addon) | Fridays at 11AM PT |
+| Q2 Spring 2024 | [Check-ins held on **Zoom**](https://deloitte.zoom.us/j/93571444311?pwd=ZjF5OTVZSGV2Sk9xUVJMRjdOOVZRdz09&from=addon) | Tuesdays at 2:30PM and 3PM PT |
 
-**Instructor for 2023:** Emily Ramond (Course Point of contact)
+**Instructor for 2023-24:** Emily Ramond (Course Point of contact)
 <br>
-**Additional Instructors**: Parker Addison, Meira Gilbert and George Thein
+**Additional Instructors**: Parker Addison, Greg Thein
 
 *Previously Developed by Nandita Rahman, Meira Gilbert, Aritra Nath, Emma Harvey, Jeffry Liu, David Danks and Rasmus Nielsen*
 
@@ -47,7 +48,7 @@ Highlights:
 * Gain insights into data science project management and collaboration within AI teams
 
 ### Industry Partner: Deloitte, Trustworthy AI Team
-As one of the largest professional services organizations in the United States, Deloitte provides a vast array of information security services across 2,800 engagements in major commercial industries and 15 cabinet-level federal agencies. Our Trustworthy AI team has helped many of our clients work through the burgeoning regulatory landscape and growing awareness around ethical and trustworthy AI. For this course, the Deloitte team will consist of Rasmus Nielsen, Aritra Nath, Emma Harvey, Nandita Rahman, Meira Gilbert, Jeffry Liu, Emily Ramond, Max Levitt, Parker Addison and Shweta Kumar. We’re excited to work with UCSD in developing this course, and we look forward to discussing these exciting topics with you.
+As one of the largest professional services organizations in the United States, Deloitte provides a vast array of information security services across 2,800 engagements in major commercial industries and 15 cabinet-level federal agencies. Our Trustworthy AI team has helped many of our clients work through the burgeoning regulatory landscape and growing awareness around ethical and trustworthy AI. For this course, the Deloitte team will consist of Emily Ramond, Parker Addison, and Greg Thein, with support from Nandita Rahman and Meira Gilbert. We’re excited to work with UCSD in developing this course, and we look forward to discussing these exciting topics with you.
 
 # Course Resources
 ### Office Hours
