@@ -27,6 +27,9 @@ Please read the following:
 * Complete the below write up #2 assignment MINUS the writing portion. No writing needed. 
 * [Write up #2](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-02/Writeup%20%232.pdf)
 * Send screenshots of a set up environment or you pulling in the data in a notebook.
+* Note: These tasks will be difficult, and will potentially take a while to compute, so start early!
+
+
 
 ## This Week's Slides
 * [Week 02 - Replication Project Introduction](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-02/Week%202%20-%20Replication%20Project%20Introduction.pdf)
@@ -36,7 +39,10 @@ Please read the following:
 ## Assigned for Week 03
 * EDA on data - submit notebook to mentors.
 * Default participation assignments due following monday
-* Spend time learning metrics taught in class. 
+* Spend time learning metrics taught in class.
+* Note: These tasks will be difficult, and will potentially take a while to compute, so start early!
+
+
 
 ---
 [Go back to Home](https://deloitte-capstone.github.io/responsible-ai/)
