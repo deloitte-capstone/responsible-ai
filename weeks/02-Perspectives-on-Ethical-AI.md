@@ -11,7 +11,9 @@ doodle: /images/xkcd_disparate_treatment_impact.png
 * What are the main doctrines and frameworks of AI fairness? 
 * How does responsible AI affect different fields? 
 * How do ethical considerations affect different stakeholders? 
-* What are some limitations to ethical AI? 
+* What are some limitations to ethical AI?
+* Lecture: Introduce the Q1 (replication) project objectives, the AI Fairness 360 model overview, and the medical expenditure tutorial
+* Workshop: Initiate logistics for the replication project: datasets, code repo, and setup. A brief overview of EDA.
 
 ## Pre-Class Readings
 Please read the following:
@@ -21,16 +23,20 @@ Please read the following:
 
 
 ## Participation Questions
+* Submit default participation to gradescope by 2:00pm Monday October 14th.
+* Complete the below write up #2 assignment MINUS the writing portion. No writing needed. 
 * [Write up #2](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-02/Writeup%20%232.pdf)
-* Submit your response to Writeup #2 to Gradescope by 10AM PT on Thursday, October 19
+* Send screenshots of a set up environment or you pulling in the data in a notebook.
 
 ## This Week's Slides
-* [Week 02 - Multi-stakeholder Perspectives on Ethical AI](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-02/Week%202%20A%20Multi-Stakeholder%20Perspective%20on%20Ethical%20AI.pdf)
+* [Week 02 - Replication Project Introduction](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-02/Week%202%20-%20Replication%20Project%20Introduction.pdf)
 
 ---
 
 ## Assigned for Week 03
-* Coming soon!
+* EDA on data - submit notebook to mentors.
+* Default participation assignments due following monday
+* Spend time learning metrics taught in class. 
 
 ---
 [Go back to Home](https://deloitte-capstone.github.io/responsible-ai/)
