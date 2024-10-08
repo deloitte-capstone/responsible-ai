@@ -54,7 +54,7 @@ As one of the largest professional services organizations in the United States, 
 
 # Course Resources
 ### Office Hours
-* Deloitte will hold office hours: TBD
+* Deloitte will hold office hours: Mondays 4:00-4:30pm and Fridays 12:30-1:00pm Pacific Time - [Zoom Link](https://deloitte.zoom.us/j/99649404580?pwd=U95dkDAUiNBTa4mbPaMpbOBvuMGeH4.1)
 
 ### Course Communications
 Please send any questions to the Responsible AI Discord server: 
