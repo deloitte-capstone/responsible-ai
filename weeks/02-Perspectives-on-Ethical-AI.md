@@ -24,22 +24,25 @@ Please read the following:
 
 ## Participation Questions
 * Submit default participation to gradescope by 2:00pm Monday October 14th.
-* Complete the below write up #2 assignment MINUS the writing portion. No writing needed. 
-* [Write up #2](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-02/Writeup%20%232.pdf)
+* Complete the below write up #3 assignment MINUS the writing portion. No writing needed. 
+* [Write up #3](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-02/Writeup%20%233.pdf)
 * Send screenshots of a set up environment or you pulling in the data in a notebook.
 * Note: These tasks will be difficult, and will potentially take a while to compute, so start early!
-
 
 
 ## This Week's Slides
 * [Week 02 - Replication Project Introduction](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-02/Week%202%20-%20Replication%20Project%20Introduction.pdf)
 
+## Replication Project
+* [Review Replication Part 01](https://github.com/deloitte-capstone/responsible-ai/blob/master/notes/week-02/replication-project-part-01-eda.ipynb) and complete "Section 1," which contains discussion questions at the end.
+* Try to get EDA done and get started on the rest of section 1 if you have time. Deadline is October 22 by class. 
 ---
 
 ## Assigned for Week 03
 * EDA on data - submit notebook to mentors.
-* Default participation assignments due following monday
-* Spend time learning metrics taught in class.
+* Default participation assignments due following monday.
+* Spend time reviewing EDA and meeting with your group.
+* Prepare your team to collect meeting notes, we will be asking for recaps in class. 
 * Note: These tasks will be difficult, and will potentially take a while to compute, so start early!
 
 
